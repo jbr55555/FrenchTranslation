@@ -156,7 +156,7 @@ SKILL_20150317_000155	Zombie Archer skill.
 SKILL_20150317_000156	Wheelchair Zombie Normal attack.
 SKILL_20150317_000157	Wheelchair Zombie skills.
 SKILL_20150317_000158	Wall of Flame
-SKILL_20150317_000159	Create a Wall of Flame that damages enemies upon contact.
+SKILL_20150317_000159	Crée un Mur de Flamme qui inflige des dégâts aux ennemis.
 SKILL_20150317_000160	Mine explosion
 SKILL_20150317_000161	Detonate explosive mines.
 SKILL_20150317_000162	Toxic explosion
@@ -176,7 +176,7 @@ SKILL_20150317_000175	Snowstorm
 SKILL_20150317_000176	Meteor Bang
 SKILL_20150317_000177	Normal attack
 SKILL_20150317_000178	Smack Down
-SKILL_20150317_000179	Smack down and damage enemies while pushing them away.
+SKILL_20150317_000179	Frappe et inflige des dégats aux ennemis en les repoussant.
 SKILL_20150317_000180	Missile attack
 SKILL_20150317_000181	AOS turret attack
 SKILL_20150317_000182	[Woodman] attack
@@ -784,14 +784,14 @@ SKILL_20150317_000783	[Monk Master] Normal attack
 SKILL_20150317_000784	[Oracle Master] Normal attack
 SKILL_20150317_000785	[Druid Master] Normal attack
 SKILL_20150317_000786	Basic Attack
-SKILL_20150317_000787	Attack an enemy from a short distance.
+SKILL_20150317_000787	Attaque un ennemi à courte distance.
 SKILL_20150317_000788	Right-hand Bow (Two-handed Bow only)
-SKILL_20150317_000789	Deal damage by swinging your weapon to an enemy from a short distance.
-SKILL_20150317_000790	Attack an enemy with magic from a far distance.
-SKILL_20150317_000791	Attack an enemy from a short distance(Warrior's Two-handed Sword only)
-SKILL_20150317_000792	Attack an enemy magic from a far distance.(Two-handed Staff)
+SKILL_20150317_000789	Inflige des dégâts à courte distance en faisant tournoyer l'arme.
+SKILL_20150317_000790	Attaque un ennemi avec de la magie à longue distance.
+SKILL_20150317_000791	Attaque un ennemi à courte distance(Warrior's Two-handed Sword only)
+SKILL_20150317_000792	Attaque un ennemi magique à longue distance.(Two-handed Staff)
 SKILL_20150317_000793	Dagger Pierce
-SKILL_20150317_000794	Attack an enemy from a short distance. The target gets knocked back when it is struck a certain number of times.
+SKILL_20150317_000794	Attaque un ennemi à courte distance. La cible est étourdie lorsqu'elle est frappée un certain nombre de fois.
 SKILL_20150317_000795	Dream Song
 SKILL_20150317_000796	Shadow Umbrella
 SKILL_20150317_000797	In development
@@ -815,13 +815,13 @@ SKILL_20150317_000814	Mischief 4
 SKILL_20150317_000815	Public_Test 5
 SKILL_20150317_000816	Mischief 5
 SKILL_20150317_000817	Ice paster
-SKILL_20150317_000818	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Summon huge snowball and damage nearby enemies.
+SKILL_20150317_000818	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Invoque une énorme boule de neige et inflige des dégâts aux ennemis proches.
 SKILL_20150317_000819	Attack: #{SkillAtkAdd}#{nl}Splash: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000820	Hoplite
 SKILL_20150317_000821	In development
 SKILL_20150317_000822	Attack + #{SkillFactor}# , Splash #{SkillSR}# {nl}Consume #{SpendSP}# SP
 SKILL_20150317_000823	Guard
-SKILL_20150317_000824	Block enemy attack with shield [Guard Point 150]
+SKILL_20150317_000824	Bloque une attaque ennemies avec le bouclier [Guard Point 150]
 SKILL_20150317_000825	Physical Attack Ratio: +#{SkillFactor}# + #{SkillAtkAdd}#
 SKILL_20150317_000826	[Golem Card] Physical Non-Property Strike
 SKILL_20150317_000827	[Mushcaria Card] Physical Poison Property Strike
@@ -921,44 +921,44 @@ SKILL_20150317_000920	Thrust
 SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Perce et repousse un ennemi.
 SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
-SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Fait tournoyer l'arme pour infliger des dommages à la cible.
+SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Faites tournoyer votre arme pour infliger des dégâts à la cible.
 SKILL_20150317_000925	Gung Ho
 SKILL_20150317_000926	Augmente l'attaque, mais diminue la défense.
 SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Augmente la puissance des compeéences d'attaques.
+SKILL_20150317_000929	Augmente la puissance des compétences d'attaques.
 SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000931	Restrain
 SKILL_20150317_000932	Réduit les HP maximum, mais augmente l'attaque.
 SKILL_20150317_000933	Physical Attack: +#{CaptionRatio}#{nl}Maximum HP: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000934	Umbo Blow
-SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaque en cognant avec le bouclier. {nl} Inflige plus de dégats après avoir bloqué une attaque ennemie.
+SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaquez en cognant avec votre bouclier. {nl} Inflige plus de dégâts après avoir bloqué une attaque ennemie.
 SKILL_20150317_000936	Rim Blow
-SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaque en utilisant la tranche du bouclier. {nl} Inflige plus de dégats aux ennemies pétrifiés et gelés.
+SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaquez en utilisant la tranche de votre bouclier. {nl} Inflige plus de dégâts aux ennemis pétrifiés et gelés.
 SKILL_20150317_000938	Swash Buckling
-SKILL_20150317_000939	Strike your shield to provoke nearby enemies.
+SKILL_20150317_000939	Frappez votre bouclier pour provoquer les ennemis proches.
 SKILL_20150317_000940	Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
-SKILL_20150317_000941	Decreases your attack, but increases your defense.
+SKILL_20150317_000941	Diminue l'attaque, mais augmente la défense.
 SKILL_20150317_000942	Physical Defense: +#{CaptionRatio}#{nl}Physical Damage: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000943	Shield Lob
-SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Throw shield to attack enemy.
+SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Lancez votre bouclier pour attaquer l'ennemi.
 SKILL_20150317_000945	High Guard
 SKILL_20150317_000946	Butterfly
 SKILL_20150317_000947	Wagon Wheel
-SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an uppercut with your weapon, launching enemies.
+SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Exécutez un uppercut avec votre arme. Repousse les ennemis.
 SKILL_20150317_000949	Cartar Stroke
-SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Gather up power and use your weapon to attack targets by smashing it to the ground.
+SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rassemblez votre pouvoir et utilisez votre arme pour attaquer des cibles en frappant le sol.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
-SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Release a powerful attack by smashing on the enemy's head. Temporarily decreases the enemy's INT and SPR.
+SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Déclenchez une puissante attaque en frappant la tête des ennemis. Diminue temporairement l'INT et la SPR des ennemis.
 SKILL_20150317_000954	Attack: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150317_000955	Cross Guard
-SKILL_20150317_000956	Use your weapon to take a defensive stance.
+SKILL_20150317_000956	Utilisez votre arme pour prendre une pose défensive.
 SKILL_20150317_000957	Defense: +#{CaptionRatio}#{nl}Block: +#{CaptionRatio2}#
 SKILL_20150317_000958	Moulinet
-SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Deal five consecutive frontal attacks to an enemy.
+SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lancez cinq attaques frontales consécutives sur un ennemi.
 SKILL_20150317_000960	Stabbing
-SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attack an enemy consecutively with a spear.
+SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attaquez un ennemi plusieurs fois avec une lance--.
 SKILL_20150317_000962	Pierce
 SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage on an enemy with a strong stab.{nl} A continuous attack bonus will apply depending on the enemy's size.
 SKILL_20150317_000964	Attack #{SkillAtkAdd}#{nl}Medium target 2 attacks{nl}Large target 3 attacks
@@ -3674,26 +3674,26 @@ SKILL_20150414_003673	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Use centrifugal
 SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical energy to launch it towards an enemy. Increases the inflicted damage depending on the amount of gathered energy.
 SKILL_20150414_003675	Makes an enemy lethargic.
 SKILL_20150414_003676	Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
-SKILL_20150414_003677	Creates a protective shield that reflects the amplified damage back to an enemy.
-SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Continuously attack enemies with magic bullets.
-SKILL_20150414_003679	Reduces the casting time of skills.
-SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a fireball. Enemies touching the fireball will receive continuous flame damage.
-SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Creates a wall of flames that continuously damages approaching enemies.
-SKILL_20150414_003682	Temporarily grants the Fire property to you and your party member's attacks.
-SKILL_20150414_003683	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Inflicts damage by exploding a burning enemy.
-SKILL_20150414_003684	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summons a pillar of fire to inflict damage on enemies.
-SKILL_20150414_003685	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire forward to enemies. Deals continuous flame damage to enemies.
-SKILL_20150414_003686	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Launches a bolt of ice to an enemy that inflicts damage and has a chance to freeze the enemy.
-SKILL_20150414_003687	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}}{nl}Spurt ice thorns and attack enemies in front with chance of freezing.
-SKILL_20150414_003688	Creates a wall of ice that confines an enemy with a chance of freezing nearby enemies.
-SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Smack frozen enemies in front. Can freeze one more enemy nearby.
-SKILL_20150414_003690	Create ice tent to block and freeze enemy.
-SKILL_20150414_003691	Create strong wind to push away target. Use on frozen enemies to attack neaby enemies.
-SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Ride on huge snowball and smash enemy.
-SKILL_20150414_003693	{#993399}{ol}[Magic]{/}{/}{nl}Concentrate on the the tip of your hand to inflict continuous damage with psychokinesis.
-SKILL_20150414_003694	{#993399}{ol}[Magic]{/}{/}{nl}Use psychokinesis to capture a target in front and throw it around.{nl}Inflicts damage by throwing the captured target in a direction using your arrow keys.
-SKILL_20150414_003695	Swaps your position with that of the enemy.
-SKILL_20150414_003696	Teleport to a random location.
+SKILL_20150414_003677	Crée un bouclier de protection qui retourne des dégâts amplifiés aux ennemis.
+SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Attaque les ennemis en continu avec des balles magiques.
+SKILL_20150414_003679	Réduit le temps de préparation des compétences.
+SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoque une boule de feu. Les ennemis touchés par la boule de feu reçoivent des dégât de feu en continu.
+SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Crée un mur de flammes qui inflige des dégâts en continu aux ennemis qui le traverse.
+SKILL_20150414_003682	Confère temporairement la propriété Feu aux attaques du joueur ainsi qu'aux attaques des membres de son équipe.
+SKILL_20150414_003683	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Inflige des dégâts en faisant exploser un ennemi enflammé.
+SKILL_20150414_003684	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoque un pilier de feu pour infliger des dégâts aux ennemis.
+SKILL_20150414_003685	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Allume un feu devant les ennemis. Inflige des dégâts de feu en continu aux ennemis.
+SKILL_20150414_003686	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl}Lance une boule de glace sur un ennemi qui inflige des dégâts et a une chance de geler l'ennemi.
+SKILL_20150414_003687	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}}{nl}Crée des épines de glace et attaque les ennemis par l'avant avec une chance de les geler.
+SKILL_20150414_003688	Crée un mur de glace qui bloque les ennemis et a une chance de geler les ennemis proches.
+SKILL_20150414_003689	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Frappe les ennemis gelés. Peux geler un autre ennemi proche.
+SKILL_20150414_003690	Crée une tente de glace pour bloquer et geler les ennemis.
+SKILL_20150414_003691	Crée un puissant vent pour repousser la cible. Peux être utilisé sur les ennemis gelés pour attaquer les ennemis proches.
+SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Chevauche une énorme boule de neige et frappe un ennemi.
+SKILL_20150414_003693	{#993399}{ol}[Magic]{/}{/}{nl}Concentrez vous sur le bout de votre main pour infliger des dégâts en continu avec la psychokinésie.
+SKILL_20150414_003694	{#993399}{ol}[Magic]{/}{/}{nl}Utilisez la psychokinésie pour capturer une cible devant vous et la lancer au loin.{nl}Inflige des dégâts en lançant la cible capturées dans un direction en utilisant les flèches du clavier.
+SKILL_20150414_003695	Echange la position du joueur avec celle d'un ennemi.
+SKILL_20150414_003696	Téléporte vers un lieu au hasard.
 SKILL_20150414_003697	{#993399}{ol}[Magic]{/}{/}{nl}Inflict damage on multiple enemies by pulling them to a targeted area causing them to collide with each other.
 SKILL_20150414_003698	Lift nearby enemies up into the air. Enemies in the air are temporarily detected as a Flying-type.
 SKILL_20150414_003699	Create a straight line gravitational force that pull the enemies.
