@@ -947,7 +947,7 @@ SKILL_20150317_000946	Butterfly
 SKILL_20150317_000947	Wagon Wheel
 SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Exécutez un uppercut avec votre arme. Repousse les ennemis.
 SKILL_20150317_000949	Cartar Stroke
-SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rassemblez votre pouvoir et utilisez votre arme pour attaquer des cibles en frappant le sol.
+SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rassemblez votre pouvoir et frapper le sol avec votre arme pour attaquer la cible.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
 SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Déclenchez une puissante attaque en frappant la tête des ennemis. Diminue temporairement l'INT et la SPR des ennemis.
@@ -958,47 +958,47 @@ SKILL_20150317_000957	Defense: +#{CaptionRatio}#{nl}Block: +#{CaptionRatio2}#
 SKILL_20150317_000958	Moulinet
 SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lancez cinq attaques frontales consécutives sur un ennemi.
 SKILL_20150317_000960	Stabbing
-SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attaquez un ennemi plusieurs fois avec une lance--.
+SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attaquez un ennemi plusieurs fois avec une lance.
 SKILL_20150317_000962	Pierce
-SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage on an enemy with a strong stab.{nl} A continuous attack bonus will apply depending on the enemy's size.
+SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflige des dégâts à un ennemi avec un coup puissant.{nl} Un bonus d'attaque continue sera applicable en fonction de la taille de l'ennemi.
 SKILL_20150317_000964	Attack #{SkillAtkAdd}#{nl}Medium target 2 attacks{nl}Large target 3 attacks
 SKILL_20150317_000965	Finestra
-SKILL_20150317_000966	Switch into the Window stance.{nl} Increases Critical Rate, but decreases Evasion.
+SKILL_20150317_000966	Bascule dans la pose de la Window.{nl} Augmente Critical Rate, mais diminue Evasion.
 SKILL_20150317_000967	Critical Rate: +#{CaptionRatio}#{nl}Evasion: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000968	Synchro Thrusting
-SKILL_20150317_000969	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl} Inflicts damage on an enemy by using a shield and spear.
+SKILL_20150317_000969	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl} Inflige des dégâts à un ennemi en utilisant un bouclier et une lance.
 SKILL_20150317_000970	Spear Attack #{SkillAtkAdd}#{nl}Shield Attack #{CaptionRatio}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000971	Long Stride
-SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflicts damage to an enemy by jumping to your designated location.
+SKILL_20150317_000972	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflige des dégâts à un ennemi en sautant sur la position désignée.
 SKILL_20150317_000973	Spear Throw
 SKILL_20150317_000974	Shield Charge
-SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Run while holding up your shield. The first target hit by the shield falls down.
+SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Courrez en levant votre bouclier. La première cible touchée par le bouclier tombe à terre.
 SKILL_20150317_000976	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Consume STA
 SKILL_20150317_000977	Montano
-SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Uses a strong attack on the lower part of a target.
+SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Utilisez une puissant attaque sur la partie basse de la cible.
 SKILL_20150317_000979	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
 SKILL_20150317_000980	Targe Smash
-SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflicts damage by strongly smashing your shield to the target. Has a high chance to inflict the Darkness status effect to the target.
+SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflige des dégâts en frappant violemment la cible avec votre bouclier. Très forte chance d'infliger le statut Darkness à la cible.
 SKILL_20150317_000982	Attack: #{SkillAtkAdd}#{nl}{#339999}{ol}[Blind]{/}{/} Duration: 3 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_000983	Shield Push
-SKILL_20150317_000984	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Use your shield to interfere with an enemy.{nl} Inflicts the Unbalanced status effect to the target. 
+SKILL_20150317_000984	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Utilisez votre bouclier pour pousser un ennemi.{nl} Inflige le statut Unbalanced à la cible. 
 SKILL_20150317_000985	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalanced]{/}{/} Duration 5 seconds
 SKILL_20150317_000986	Impaler
-SKILL_20150317_000987	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small monster with a spear. Using this skill while a monster is skewered inflicts damage.
+SKILL_20150317_000987	{#DD5500}{ol}[Pierce]{/}{/}{nl}Empale un monstre de petite taille avec une lance. L'utilisation de cette compétence sur un monstre embroché inflige des dégâts.
 SKILL_20150317_000988	Earth Wave
-SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl}Gather up power and use your weapon to attack the enemy by smashing it to the ground.
+SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl}Rassemblez votre pouvoir et frapper le sol avec votre arme pour attaquer l'ennemi.
 SKILL_20150317_000990	Trot
-SKILL_20150317_000991	Increases your movement speed.
+SKILL_20150317_000991	Augmente votre vitesse de mouvement.
 SKILL_20150317_000992	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000993	Steed Charge
-SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Rush forward with power to throw your target away.
+SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Effectuez une puissante charge pour repousser la cible.
 SKILL_20150317_000995	Doom Spike
-SKILL_20150317_000996	{#DDD300}{ol}[Pierce]{/}{/}{nl}Gather up power to release a strong stab to an enemy.
+SKILL_20150317_000996	{#DDD300}{ol}[Pierce]{/}{/}{nl}Rassemblez votre pouvoir pour lâcher un coup puissant sur un ennemi.
 SKILL_20150317_000997	Rush
-SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl} Continuously spin your spear above your head to attack an enemy.
+SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl} Faites tourner votre lance en permanence au-dessus de votre tête pour attaquer un ennemi.
 SKILL_20150317_000999	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_001000	Dragging Death
-SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Continuously attack enemies in front.
+SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Attaque en permanence les ennemis en face--.
 SKILL_20150317_001002	Embowel
 SKILL_20150317_001003	{#DD5500}{ol}[Pierce]{/}{/}{nl} Release a strong stab to an enemy then kick it away afterwards.
 SKILL_20150317_001004	Frenzy
@@ -3675,7 +3675,7 @@ SKILL_20150414_003674	{#993399}{ol}[Magic]{/}{/}{nl}Gather powerful magical ener
 SKILL_20150414_003675	Makes an enemy lethargic.
 SKILL_20150414_003676	Makes an enemy fall asleep. The enemy awakens once you've reached your limit of attacks.
 SKILL_20150414_003677	Crée un bouclier de protection qui retourne des dégâts amplifiés aux ennemis.
-SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Attaque les ennemis en continu avec des balles magiques.
+SKILL_20150414_003678	{#993399}{ol}[Magic]{/}{/}{nl}Attaque les ennemis en permanence avec des balles magiques.
 SKILL_20150414_003679	Réduit le temps de préparation des compétences.
 SKILL_20150414_003680	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoque une boule de feu. Les ennemis touchés par la boule de feu reçoivent des dégât de feu en continu.
 SKILL_20150414_003681	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Crée un mur de flammes qui inflige des dégâts en continu aux ennemis qui le traverse.
