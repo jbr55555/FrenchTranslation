@@ -918,23 +918,23 @@ SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
 SKILL_20150317_000920	Thrust
-SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
+SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Perce et repousse un ennemi.
 SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
-SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to a target by strongly swinging your weapon.
+SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Fait tournoyer l'arme pour infliger des dommages à la cible.
 SKILL_20150317_000925	Gung Ho
-SKILL_20150317_000926	Increases your attack, but decreases your defense.
+SKILL_20150317_000926	Augmente l'attaque, mais diminue la défense.
 SKILL_20150317_000927	Physical Damage: +#{CaptionRatio}#{nl}Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000928	Concentrate
-SKILL_20150317_000929	Increases the power of your attacking skills.
+SKILL_20150317_000929	Augmente la puissance des compeéences d'attaques.
 SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000931	Restrain
-SKILL_20150317_000932	Decreases your maximum HP, but increases your attack.
+SKILL_20150317_000932	Réduit les HP maximum, mais augmente l'attaque.
 SKILL_20150317_000933	Physical Attack: +#{CaptionRatio}#{nl}Maximum HP: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000934	Umbo Blow
-SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
+SKILL_20150317_000935	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaque en cognant avec le bouclier. {nl} Inflige plus de dégats après avoir bloqué une attaque ennemie.
 SKILL_20150317_000936	Rim Blow
-SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
+SKILL_20150317_000937	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attaque en utilisant la tranche du bouclier. {nl} Inflige plus de dégats aux ennemies pétrifiés et gelés.
 SKILL_20150317_000938	Swash Buckling
 SKILL_20150317_000939	Strike your shield to provoke nearby enemies.
 SKILL_20150317_000940	Targets: #{SkillSR}#{nl}Maximum Provocation: +#{CaptionRatio}# for #{CaptionTime}# seconds
