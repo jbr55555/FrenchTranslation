@@ -950,7 +950,7 @@ SKILL_20150317_000949	Cartar Stroke
 SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rassemblez votre pouvoir et frapper le sol avec votre arme pour attaquer la cible.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
-SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Déclenchez une puissante attaque en frappant la tête des ennemis. Diminue temporairement l'INT et la SPR des ennemis.
+SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Déclenchez une puissante attaque en abattant votre arme sur la tête des ennemis. Diminue temporairement l'INT et la SPR des ennemis.
 SKILL_20150317_000954	Attack: #{SkillAtkAdd}#{nl}Splash: #{SkillSR}#{nl}{#339999}{ol}[Shock]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150317_000955	Cross Guard
 SKILL_20150317_000956	Utilisez votre arme pour prendre une pose défensive.
@@ -1101,34 +1101,34 @@ SKILL_20150317_001100	Fire Pillar
 SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoque un pilier de feu qui blesse la cible.
 SKILL_20150317_001102	Attack: #{SkillAtkAdd}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001103	Hell Breath
-SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of fire--.
+SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Brûle les ennemis en continu avec un cône de feu.
 SKILL_20150317_001105	Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 seconds
 SKILL_20150317_001106	Ice Bolt
-SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl} Inflicts damage to a target by launching a bolt of ice and has a chance to freeze the the target.
+SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl} Inflige des dégâts à la cible en lançant une boule de glace. A une chance de geler la cible.
 SKILL_20150317_001108	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 3 seconds
 SKILL_20150317_001109	Ice Pike
-SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Pierce] {/} {/}} {nl} Inflicts damage to a target by launching a wave of ice and has a chance to freeze the target.
+SKILL_20150317_001110	{#993399}{ol}[Magic] - [Ice] - [Pierce] {/} {/}} {nl} Inflige des dégâts à la cible en lançant une vague de glace. A une chance de geler la cible.
 SKILL_20150317_001111	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Frozen]{/}{/} Duration 4 seconds
-SKILL_20150317_001112	Create a barrier of ice with a chance to freeze enemies.
+SKILL_20150317_001112	Crée une barrière de glace. A une chance de geler les ennemis.
 SKILL_20150317_001113	Ice Wall #{CaptionRatio}# {nl}{#339999}{ol}[Ice]{/}{/}{nl} Duration 3 seconds {nl} Ice Wall Duration 10 seconds
 SKILL_20150317_001114	Ice Blast
-SKILL_20150317_001115	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl} Inflicts damage by shattering a frozen target.
+SKILL_20150317_001115	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl} Inflige des dégâts en brisant une cible gelée.
 SKILL_20150317_001116	{#339999}{ol}[Ice]{/}{/} Attacks to Targets #{SkillAtkAdd}#
-SKILL_20150317_001117	Create a wall of ice to temporarily defend yourself against attacks from enemies.
+SKILL_20150317_001117	Crée un mur de glace qui protège temporairement des attaques ennemies.
 SKILL_20150317_001118	Enemies attacked {#339999}{ol}[Ice]{/}{/}Rate 50% {nl} {#339999}{ol}[Ice]{/}{/}Duration 3 seconds
 SKILL_20150317_001119	Gust
-SKILL_20150317_001120	Creates a gust of wind that pushes the target away. Inflicts damage on targets that are frozen or nearby an Ice Wall.
+SKILL_20150317_001120	Crée une rafale de vent qui pousse la cible loin. Inflige des dégâts sur les cibles qui sont gelés ou à proximité d'un mur de glace.
 SKILL_20150317_001121	Frost Pillar
-SKILL_20150317_001122	Summons a tree of ice on the ground that pulls nearby enemies in and has a chance of freezing them.
+SKILL_20150317_001122	Invoque un arbre de glace qui attire les ennemis proches et a une chance de les geler.
 SKILL_20150317_001123	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001124	Psychic Pressure
-SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts continuous damage to targets in front of you.
+SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts continus aux cible face à vous.
 SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Consume #{CaptionRatio2}#% of SP per second.
 SKILL_20150317_001127	Telekinesis
-SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Captures targets in front of you using psychokinesis.{nl}Inflicts damage by throwing the captured target to a direction using your arrow keys. 
+SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Captures les cibles en face de vous en utilisant la psychokinésie.{nl}Inflige des dégâts en lançant la cible capturée dans une direction en utilisant les flèches du clavier. 
 SKILL_20150317_001129	Attack: #{SkillAtkAdd}#{nl}Attack Count: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001130	Swap
-SKILL_20150317_001131	Swaps your position with that of the enemy.
+SKILL_20150317_001131	Echange votre position avec celle de l'ennemi.
 SKILL_20150317_001132	Targets #{CaptionRatio}#{nl}Limited Range 20{nl}
 SKILL_20150317_001133	Teleportation
 SKILL_20150317_001134	Teleports you to a random location.
@@ -3603,35 +3603,35 @@ SKILL_20150406_003602	[Pardoner] Craft Anti-Magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
-SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push the point of your weapon into enemies, performing a strong piercing attack.
-SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on an enemy with a powerful attack.
-SKILL_20150414_003608	Become determined by temporarily increasing your attack, while decreasing your defense.
-SKILL_20150414_003609	Increases your attack damage.
-SKILL_20150414_003610	Lowers your maximum HP, but your attacks have a high chance of stunning enemies.
+SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lance une puissante attaque perçante avec la pointe de votre arme.
+SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflige des dégâts à un ennemi avec une puissante attaque.
+SKILL_20150414_003608	Augmentez temporairement votre attaque en baissant votre défense.
+SKILL_20150414_003609	Augmentez les dégâts de vos attaques.
+SKILL_20150414_003610	Baisse vos HP maximum, mais vos attaques ont une grande chance d'étourdir les ennemis.
 SKILL_20150414_003611	Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Maximum HP: -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
-SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemies with the hilt of your sword.{nl}Inflicts additional damage on stunned monsters, and partially ignores the defense of small and medium sized enemies.
-SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Deals additional damage to enemies staggered by a block.
-SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
-SKILL_20150414_003615	Hit your shield to provoke nearby enemies making them pursue you.
-SKILL_20150414_003616	Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
-SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
-SKILL_20150414_003618	Change to active stance using shield in front. Block and increases while attack and critical decrease.
+SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Frappez les ennemis avec le pommeau de votre épée.{nl}Inflige des dégâts supplémentaires aux montres étourdis, et ignore une partie de la défense des ennemis de petite et moyenne taille.
+SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Utilisez la face de votre bouclier pour attaquer les ennemis. Inflige des dégâts supplémentaires aux ennemis coincé par un bloc.
+SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Utilisez la tranche de votre bouclier pour attaquer les ennemis. Inflige des dégâts supplémentaires aux ennemis pétrifiés et gelés.
+SKILL_20150414_003615	Frapper votre bouclier pour provoquer les ennemis proches afin qu'ils vous poursuivent.
+SKILL_20150414_003616	Augmente votre défense et réduit votre attaque. Ne peut pas être utilisé en même temps que Gung Ho.
+SKILL_20150414_003617	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Lancez votre bouclier pour attaquer. Le bouclier lancé disparaît s'il n'est pas ramassé dans la limite du temps imparti.
+SKILL_20150414_003618	Changez de position en plaçant votre bouclier devant vous. Votre taux de blocage augmente mais vos critiques et vos attaques diminuent.
 SKILL_20150414_003619	Block: +#{CaptionRatio}# {nl}Attack: -#{CaptionTime}#% {nl}Critical Chance: -#{CaptionRatio2}#
-SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Use your shield and sword to attack enemies with continuous attacks.
-SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Perform an upward swing with your weapon, launching an enemy.
-SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Smack your weapon down on an enemy's head. Temporarily decreases the target's INT and SPR.
-SKILL_20150414_003623	Take a defensive stance, using your weapon to block. Blocked enemies become vulnerable to [Pierce] attacks.
-SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflict damage on enemies by swinging your sword around to create continuous attacks.
-SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike and push an enemy sidewards using the side of your sword. The enemy becomes afflicted with [Armor Break].
-SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Repeatedly stab enemies with your spear.
-SKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack by piercing enemies with your spear. The larger an enemy is, the more consecutive hits you deal.
-SKILL_20150414_003628	Change to Window formation for active attack. Chance of critical increases but evasion decreases.
-SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use your spear and shield to attack enemies. Deals additional damage when an attack is countered.
-SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Throw spear to attack enemy. Spear dropped on ground may disappear if not picked up within time limit.
-SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield.
-SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Attack with a powerful slash on the lower half of an enemy with a chance to paralyze.
-SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield to inflict damage on an enemy with a powerful smash. Has a chance to afflict [Blind] on the enemy.
-SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}DeStab the enemy in front of you, and make it more vulnerable to [Pierce] attacks.fense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
+SKILL_20150414_003620	{#DD5500}{ol}[Physical] - [Strike] - [Slash]{/}{/}{nl}Utilisez votre bouclier et votre épée pour attaquer les ennemis en permanence.
+SKILL_20150414_003621	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Frappez de bas en haut avec votre arme pour repousser un ennemi.
+SKILL_20150414_003622	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Abattez votre arme sur la tête des ennemis. Diminue temporairement l'INT et la SPR de la cible.
+SKILL_20150414_003623	Prenez une pose défensive en utilisant votre arme pour bloquer les attaques. Les ennemis bloqués deviennent vulnérables aux attaques [Pierce].
+SKILL_20150414_003624	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Faites tournoyer votre arme autour de vous pour attaquer les ennemis en continu.
+SKILL_20150414_003625	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Frappez et repoussez un ennemi sur le côté en utilisant le plat de votre épée. L'ennemi subit [Armor Break].
+SKILL_20150414_003626	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Frappe les ennemis plusieurs fois avec votre lance.
+SKILL_20150414_003627	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Transperce les ennemis avec votre lance. Plus l'ennemi est grand, plus vous donnez de coups.
+SKILL_20150414_003628	Prenez la pose Window pour attaquer. Critical Rate augmente mais Evasion diminue.
+SKILL_20150414_003629	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Utilisez votre lance et votre bouclier pour attaquer les ennemis. Vous faites des dégâts supplémentaires lorsqu'une attaque est contrée.
+SKILL_20150414_003630	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Lancez votre lance pour attaquer les ennemis. La lance lancée disparaît si elle n'est pas ramassée dans la limite du temps imparti.
+SKILL_20150414_003631	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Utilisez votre bouclier pour repousser les ennemis. Les ennemis proches tombent lorsqu'ils sont touchés par le bouclier.
+SKILL_20150414_003632	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Effectuez une puissante attaque sur la partie basse d'un ennemi qui a une chance de le paralyser.
+SKILL_20150414_003633	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Donnez un coup puissant avec votre bouclier qui a une chance d'infliger le statut [Blind] à l'ennemi.
+SKILL_20150414_003634	Attack #{SkillAtkAdd}#{nl}Defense -#{CaptionRatio}# {nl}{#339999}{ol}[Unbalance]{/}{/} Duration 5 seconds
 SKILL_20150414_003635	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks and triggers an attack immediately after movement has ended.
 SKILL_20150414_003636	{#DD5500}{ol}[Physical] - [Pierce] - [Strike]{/}{/}{nl}Use sword and shield to attack continuously.
 SKILL_20150414_003637	{#DD5500}{ol}[Pierce]{/}{/}{nl}Impales a small or medium-type monster with a spear. It is possible to attack other enemies with a skewered enemy.
@@ -3692,7 +3692,7 @@ SKILL_20150414_003691	Crée un puissant vent pour repousser la cible. Peux être
 SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Chevauche une énorme boule de neige et frappe un ennemi.
 SKILL_20150414_003693	{#993399}{ol}[Magic]{/}{/}{nl}Concentrez vous sur le bout de votre main pour infliger des dégâts en continu avec la psychokinésie.
 SKILL_20150414_003694	{#993399}{ol}[Magic]{/}{/}{nl}Utilisez la psychokinésie pour capturer une cible devant vous et la lancer au loin.{nl}Inflige des dégâts en lançant la cible capturées dans un direction en utilisant les flèches du clavier.
-SKILL_20150414_003695	Echange la position du joueur avec celle d'un ennemi.
+SKILL_20150414_003695	Echange la position du joueur avec celle d'un ennemi--.
 SKILL_20150414_003696	Téléporte vers un lieu au hasard.
 SKILL_20150414_003697	{#993399}{ol}[Magic]{/}{/}{nl}Inflict damage on multiple enemies by pulling them to a targeted area causing them to collide with each other.
 SKILL_20150414_003698	Lift nearby enemies up into the air. Enemies in the air are temporarily detected as a Flying-type.
