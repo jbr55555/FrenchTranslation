@@ -1080,28 +1080,28 @@ SKILL_20150317_001079	Surespell
 SKILL_20150317_001080	Le temps de préparation des compétences ne peut pas être interrompu par les attaques ennemies.
 SKILL_20150317_001081	Duration: #{CaptionTime}# seconds
 SKILL_20150317_001082	Magic Missile
-SKILL_20150317_001083	{#993399}{ol}[Magic]{/}{/}{nl} Tire des missiles magique sur la cible--.
+SKILL_20150317_001083	{#993399}{ol}[Magic]{/}{/}{nl} Tire des missiles magiques sur la cible.
 SKILL_20150317_001084	Attack #{SkillAtkAdd}#{nl}3 Magic Missiles
 SKILL_20150317_001085	Quick Cast
-SKILL_20150317_001086	Cast Time decreased.
+SKILL_20150317_001086	Réduit le temps de préparation des comptétences.
 SKILL_20150317_001087	Cast Time: -#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001088	Fireball
-SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summons a stationary fireball. You can blow it up by hitting it with a sword attack.
+SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Invoque une boule de feu devant vous. Vous pouvez la pousser en tapant dessus avec épée.
 SKILL_20150317_001090	Attack: #{SkillAtkAdd}#{nl}Attack Count: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001091	Fire Wall
-SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Creates a flame barrier inflicting damage to nearby enemies.
+SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Crée une barrière de feu qui inflige des dégâts aux ennemis proches.
 SKILL_20150317_001093	Attack #{SkillAtkAdd}#{nl}#{CaptionRatio}# Fire Wall #{nl}Attack #{CaptionRatio2}# times{nl}Duration 15 seconds
 SKILL_20150317_001094	Enchant Fire
-SKILL_20150317_001095	Grants Fire property to the target. Additional damage applies to your basic attack.
+SKILL_20150317_001095	Confère la propriété Feu à la cible. Les dégâts de vos attaques basiques sont augmentées.
 SKILL_20150317_001096	Fire Property Attack: +#{CaptionRatio}#{nl}Additional Damage: +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001097	Flare
-SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Inflicts damage by exploding the enemy affected by a status effect. This excludes both petrified and frozen status effects.
+SKILL_20150317_001098	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Fait exploser les ennemis affectés par un statut. Les statuts Petrified et Frozen ne sont pas affectés.
 SKILL_20150317_001099	Attack #{SkillAtkAdd}#
 SKILL_20150317_001100	Fire Pillar
-SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Summon a fire pillar to damage a target.
+SKILL_20150317_001101	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Invoque un pilier de feu qui blesse la cible.
 SKILL_20150317_001102	Attack: #{SkillAtkAdd}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001103	Hell Breath
-SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of fire.
+SKILL_20150317_001104	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Continuously burn enemies with a cone of fire--.
 SKILL_20150317_001105	Attack #{SkillAtkAdd}#{nl}Consume #{CaptionRatio}#% SP per 0.5 seconds
 SKILL_20150317_001106	Ice Bolt
 SKILL_20150317_001107	{#993399}{ol}[Magic] - [Ice] - [Pierce]{/}{/}{nl} Inflicts damage to a target by launching a bolt of ice and has a chance to freeze the the target.
