@@ -998,36 +998,36 @@ SKILL_20150317_000997	Rush
 SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl} Faites tourner votre lance en permanence au-dessus de votre tête pour attaquer un ennemi.
 SKILL_20150317_000999	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_001000	Dragging Death
-SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Attaque en permanence les ennemis en face--.
+SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Attaque en permanence les ennemis en face.
 SKILL_20150317_001002	Embowel
-SKILL_20150317_001003	{#DD5500}{ol}[Pierce]{/}{/}{nl} Release a strong stab to an enemy then kick it away afterwards.
+SKILL_20150317_001003	{#DD5500}{ol}[Pierce]{/}{/}{nl} Relâchez un coup puissant sur un ennemi puis repoussez le au loin.
 SKILL_20150317_001004	Frenzy
-SKILL_20150317_001005	Increases your attack when you use consecutive basic attacks on the target.
+SKILL_20150317_001005	Augmente votre attaque lorsque après plusieurs attaques basiques consécutives sur une cible.
 SKILL_20150317_001006	Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
-SKILL_20150317_001008	Your attacks are guaranteed to hit, but your Critical Rate and Critical Evasion decreases.
+SKILL_20150317_001008	Vous êtes sûr de toucher votre cible, mais votre Critical Rate et Critical Evasion diminue.
 SKILL_20150317_001009	Critical Chance: -#{CaptionRatio}#%{nl}Critical Evasion: -#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001010	Savagery
-SKILL_20150317_001011	While the buff is active, a continuous attack bonus applies to {#DD5500}{ol}[Pierce]{/}{/} attacks.
+SKILL_20150317_001011	Tant que cette compétence est active, un bonus d'attaque est appliqué à {#DD5500}{ol}[Pierce]{/}{/}.
 SKILL_20150317_001012	{#DD5500}{ol}[Pierce]{/}{/}Continuous Attack Bonus {nl} Duration: #{CaptionTime}# seconds
 SKILL_20150317_001013	Warcry
-SKILL_20150317_001014	Reduces the nearby target's defense and add it to your attack.
+SKILL_20150317_001014	Réduit la défense des cibles proches pour agmenter votre attaque.
 SKILL_20150317_001015	Targets: #{CaptionRatio}#{nl}Maximum Physical Defense: -#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001016	Stomping Kick
-SKILL_20150317_001017	{#DD5500}{ol}[Strike]{/}{/}{nl} Stomp down on a target while airborne.
+SKILL_20150317_001017	{#DD5500}{ol}[Strike]{/}{/}{nl} Retombe violemment sur le cible.
 SKILL_20150317_001018	Weapon Maintenance
-SKILL_20150317_001019	Open a shop to repair weapons.
+SKILL_20150317_001019	Ouvre un magasin pour réparer les armes.
 SKILL_20150317_001020	Armor Maintenance
-SKILL_20150317_001021	Open a shop to repair armor.
+SKILL_20150317_001021	Ouvre un magasin pour réparer les armures.
 SKILL_20150317_001022	Repair
-SKILL_20150317_001023	Use your shield to interfere with an enemy by pushing it down.
+SKILL_20150317_001023	Utilisez votre bouclier pour faire tomber un ennemi.
 SKILL_20150317_001024	Arrest
 SKILL_20150317_001025	Jolly Roger
 SKILL_20150317_001026	Iron Hook
 SKILL_20150317_001027	Keel Hauling
 SKILL_20150317_001028	Unlock Chest
 SKILL_20150317_001029	Cancel Sub Weapon
-SKILL_20150317_001030	{#DDD300}{ol}[Buff]{/}{/}{nl} While the buff is active, a continuous attack bonus bonus applies to {#CC3300}{ol}[Pierce]{/}{/} attacks.
+SKILL_20150317_001030	{#DDD300}{ol}[Buff]{/}{/}{nl} Tant que cette compétence est active, un bonus d'attaque est appliqué aux attaques {#CC3300}{ol}[Pierce]{/}{/}.
 SKILL_20150317_001031	Duration: #{CaptionTime}# seconds{nl} Consumes #{SpendSP}# SP
 SKILL_20150317_001032	Conscript
 SKILL_20150317_001033	Phalanx
@@ -1039,48 +1039,48 @@ SKILL_20150317_001038	Testudo
 SKILL_20150317_001039	Skirmisher
 SKILL_20150317_001040	Change Direction
 SKILL_20150317_001041	Deeds of Valor
-SKILL_20150317_001042	Increases your attack speed and attack rate when attacked, while decreasing your defense.
+SKILL_20150317_001042	Augmente votre vitesse d'attaque et votre taux d'attaque lorsque vous êtes attaqué mais réduit votre défense.
 SKILL_20150317_001043	Pain Barrier
-SKILL_20150317_001044	Increased Movement Speed +#{CaptionTime}# for #{CaptionRatio}#% seconds
+SKILL_20150317_001044	Augmente vote vitesse de mouvement +#{CaptionTime}# pendant #{CaptionRatio}#% secondes
 SKILL_20150317_001045	Mordschlag
 SKILL_20150317_001046	{#CC3300}{ol}[Pierce]{/}{/} Attribute{nl}Damage #{SkillFactor}#%{nl}Splash #{SkillSR}#{nl} Consumption SP #{SpendSP}#
 SKILL_20150317_001047	Double Pay Earn
 SKILL_20150317_001048	Three times of hit damage
 SKILL_20150317_001049	Punish
 SKILL_20150317_001050	Cyclone
-SKILL_20150317_001051	Inflicts damage by releasing a powerful spinning attack to nearby enemies.
+SKILL_20150317_001051	Inflige des dégâts aux ennemis proches avec une puissante attaque tournoyante.
 SKILL_20150317_001052	Lv.1 Attack Rate #{SkillFactor}#, Splash 3Lv.2 Attack Rate #{SkillFactor}#, Splash 6Lv.3 Attack Rate #{SkillFactor}#, Splash 9Lv.4 Attack Rate #{SkillFactor}#, Splash 12Lv.5 Attack Rate #{SkillFactor}#, Splash 15
 SKILL_20150317_001053	Selfdestruct
 SKILL_20150317_001054	Shadow Clone
 SKILL_20150317_001055	Prepare for Attack
 SKILL_20150317_001056	Murmillo 1
 SKILL_20150317_001057	Murmillo 2
-SKILL_20150317_001058	Defend yourself against attacks from enemies.
+SKILL_20150317_001058	Vous vous défendez contre les attaques ennemies.
 SKILL_20150317_001059	Buff Duration: #{CaptionTime}#sec{nl}#Parring Chance: {CaptionRatio}#%
-SKILL_20150317_001060	Use shoulder to tackle and push away enemy
+SKILL_20150317_001060	Donnez un coup d'épaule pour repousser les ennemis
 SKILL_20150317_001061	{#CC3300}{ol}[Strike]{/}{/} Attribute{nl} Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl} SP Consumed #{SpendSP}#
 SKILL_20150317_001062	Increase Knockdown Power
-SKILL_20150317_001063	Use chain to capture and fling nearby enemy.
+SKILL_20150317_001063	Utiliser une chaîne pour capturer puis rejeter les ennemis proches.
 SKILL_20150317_001064	Curse
 SKILL_20150317_001065	Energy Bolt
-SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attack a target with powerful energy.
+SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attaque une cible avec une puissane énergie.
 SKILL_20150317_001067	Attack #{SkillAtkAdd}#{nl}Cast Time 1 second{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
-SKILL_20150317_001069	Inflict lethargy upon the target.
+SKILL_20150317_001069	Rend la cible léthargique.
 SKILL_20150317_001070	Physical Attack: -#{CaptionRatio}#{nl}Magic Attack: -#{CaptionRatio}#{nl}Evasion: -#{CaptionRatio2}#{nl}{#339999}{ol}[Lethargy]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150317_001071	Sleep
-SKILL_20150317_001072	Inflicts sleep upon targets. Enemies will awake upon taking a certain number of hits, or once sleep runs out.
+SKILL_20150317_001072	Endort la cible. Les ennemis se réveillent lorsqu'ils encaissent une certains nombre de coups ou lorsque le temps d'effet est écoulé.
 SKILL_20150317_001073	{#339999}{ol}[Sleep]{/}{/} Duration: #{SkillFactor}# seconds{nl}Attack Threshold: #{CaptionRatio}#
 SKILL_20150317_001074	Reflect Shield
-SKILL_20150317_001075	Creates a protective shield that reflects the amplified damage to the target.
+SKILL_20150317_001075	Crée un bouclier protecteur qui retourne des dégâts amplifiés à la cible.
 SKILL_20150317_001076	Damage Reflection: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Reflects #{CaptionRatio2}# times
 SKILL_20150317_001077	Earthquake
-SKILL_20150317_001078	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl} Inflicts damage on an enemy by creating a powerful earthquake in front of you.
+SKILL_20150317_001078	{#993399}{ol}[Magic] - [Earth]{/}{/}{nl} Inflige des dégâts à un ennemi en créant un puissant tremblement de terre devant vous.
 SKILL_20150317_001079	Surespell
-SKILL_20150317_001080	Skills being cast cannot be interrupted by enemy attacks.
+SKILL_20150317_001080	Le temps de préparation des compétences ne peut pas être interrompu par les attaques ennemies.
 SKILL_20150317_001081	Duration: #{CaptionTime}# seconds
 SKILL_20150317_001082	Magic Missile
-SKILL_20150317_001083	{#993399}{ol}[Magic]{/}{/}{nl} Fires Magic Missiles at the target
+SKILL_20150317_001083	{#993399}{ol}[Magic]{/}{/}{nl} Tire des missiles magique sur la cible--.
 SKILL_20150317_001084	Attack #{SkillAtkAdd}#{nl}3 Magic Missiles
 SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Cast Time decreased.
@@ -3994,19 +3994,19 @@ SKILL_20150414_003993	Decreases the amount of monsters in dungeons created with 
 SKILL_20150414_003994	Item Awakening: Prompt Decision
 SKILL_20150414_003995	Decreases the amount of waves in dungeons created with [Item Awakening] by 1.
 SKILL_20150414_003996	Weapon Swap
-SKILL_20150414_003997	You can change weapon.
+SKILL_20150414_003997	Vous pouvez changer d'arme.
 SKILL_20150414_003998	Vendetta: Counter Attack
-SKILL_20150414_003999	Doubles the damage when hitting an enemy affected by the [Bleeding] status ailment with [Vendetta].
+SKILL_20150414_003999	Double les dégâts lorsque vous attaquez les ennemis affectés par le statut [Bleeding] avec [Vendetta].
 SKILL_20150414_004000	Backstab: Massive Bleeding
-SKILL_20150414_004001	Enemy falls under [Massive Bleed] status when attack with [Back Step] while bleeding.
+SKILL_20150414_004001	Confère le statut [Massive Bleed] aux ennemis lorsque vous les attaquez avec[Back Step] alors qu'ils saignent.
 SKILL_20150414_004002	Magic Arrow: Silence
-SKILL_20150414_004003	Enemies receiving [Magic Arrow] fire attacks have chance of falling under [Silence]. Chance increase by 10% per attribute level.
+SKILL_20150414_004003	Les ennemis touchés par les attaques [Magic Arrow] ont une chance de subir le statut [Silence]. Les chances augmentent de 10% par niveau.
 SKILL_20150414_004004	Divine Machine Arrow: Shock
-SKILL_20150414_004005	Enemies hit by [Divine Machine Arrow] are afflicted with [Shock] for 10 seconds.
+SKILL_20150414_004005	Les ennemis touchés par [Divine Machine Arrow] reçoivent le statut [Shock] pendant 10 secondes.
 SKILL_20150414_004006	Revive: Duration
-SKILL_20150414_004007	Duration of [Revive] increase by 10 seconds per attribute level.
+SKILL_20150414_004007	Les durée de [Revive] augmente de 10 secondes par niveau.
 SKILL_20150414_004008	Palm Strike: Bleeding
-SKILL_20150414_004009	Enemy falls under [Bleed] for 8 seconds when attacked with [Palm Strike]. Duration of [Bleed] incerases by a seconds per level.
+SKILL_20150414_004009	Les ennemis subissent le statut [Bleed] pendant 8 secondes lorsqu'ils sont attaqués avec [Palm Strike]. Les duréee de [Bleed] augmente d'une seconde par niveau.
 SKILL_20150414_004010	Hand Knife: Armor Break
 SKILL_20150414_004011	Enemies attacked with [Hand Knife] have chance of falling under [Armor Break]. Chance increases by 5% per attribute level.
 SKILL_20150414_004012	One Inch Punch: Silence
@@ -4258,24 +4258,24 @@ SKILL_20150714_004257	Magic Amplification Increase
 SKILL_20150714_004258	Increase Magic Amplification
 SKILL_20150714_004259	Armor Penetration
 SKILL_20150714_004260	Decreased Physical Defense
-SKILL_20150714_004261	You can change weapons.
-SKILL_20150714_004262	Allows you to equip the [One-handed Sword] weapon type.
-SKILL_20150714_004263	Allows you to equip the [Two-handed Sword] weapon type.
-SKILL_20150714_004264	Allows you to equip the [One-handed Spear] weapon type.
-SKILL_20150714_004265	Allows you to equip the [Two-handed Spear] weapon type.
-SKILL_20150714_004266	Allows you to equip the [Bow] weapon type.
-SKILL_20150714_004267	Allows you to equip the [Crossbow] weapon type.
-SKILL_20150714_004268	Allows you to equip the [Rod] weapon type.
-SKILL_20150714_004269	Allows you to equip the [Staff] weapon type.
-SKILL_20150714_004270	Allows you to equip the [Mace] weapon type.
-SKILL_20150714_004271	Allows you to equip the [Wand] weapon type.
-SKILL_20150714_004272	Allows you to equip the [Pistol] weapon type.
+SKILL_20150714_004261	Vous pouvez changer d'armes.
+SKILL_20150714_004262	Permet de vous équiper d'arme de type [One-handed Sword].
+SKILL_20150714_004263	Permet de vous équiper d'arme de type [Two-handed Sword].
+SKILL_20150714_004264	Permet de vous équiper d'arme de type [One-handed Spear].
+SKILL_20150714_004265	Permet de vous équiper d'arme de type [Two-handed Spear].
+SKILL_20150714_004266	Permet de vous équiper d'arme de type [Bow].
+SKILL_20150714_004267	Permet de vous équiper d'arme de type [Crossbow].
+SKILL_20150714_004268	Permet de vous équiper d'arme de type [Rod].
+SKILL_20150714_004269	Permet de vous équiper d'arme de type [Staff].
+SKILL_20150714_004270	Permet de vous équiper d'arme de type the [Mace].
+SKILL_20150714_004271	Permet de vous équiper d'arme de type the [Wand].
+SKILL_20150714_004272	Permet de vous équiper d'arme de type [Pistol].
 SKILL_20150714_004273	Cloth Mastery: Magic
-SKILL_20150714_004274	Able to equip [Cloth] armor. In addition, increases your maximum SP and Magic Defense depending on the number of equipped [Cloth] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004274	Permet de vous équiper d'armures de type [Cloth]. De plus, augmente Maximum SP et Magic Defense selon le nombre de pièces d'armure [Cloth] équipées ainsi que du niveau de compétence. (Appliqué à partir de 3 pièces d'armures)
 SKILL_20150714_004275	Leather Mastery: Dexterity
-SKILL_20150714_004276	Able to equip [Leather] armor. In addition, increases your Evasion depending on the number of equipped [Leather] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004276	Permet de vous équiper d'armures de type [Leather]. De plus, augmente Evasion selon le nombre de pièces d'armure [Leather] équipées ainsi que du niveau de compétence. (Appliqué à partir de 3 pièces d'armures)
 SKILL_20150714_004277	Plate Mastery: Defense
-SKILL_20150714_004278	Able to equip [Plate] armor. In addition, increases your maximum HP and Physical Defense depending on the number of equipped [Plate] armor and the attribute level. (Applies from 3 armor pieces)
+SKILL_20150714_004278	Permet de vous équiper d'armures de type [Plate]. De plus, augmente Maximum HP et Physical Defense selon le nombre de pièces d'armure [Plate] équipées ainsi que du niveau de compétence. (Appliqué à partir de 3 pièces d'armures)
 SKILL_20150714_004279	Dagger Mastery
 SKILL_20150714_004280	Deals 20 additional damage per attribute level when attacking behind the enemy with a dagger. 
 SKILL_20150714_004281	Companion Riding
