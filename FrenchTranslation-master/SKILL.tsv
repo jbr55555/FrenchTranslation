@@ -1131,84 +1131,84 @@ SKILL_20150317_001130	Swap
 SKILL_20150317_001131	Echange votre position avec celle de l'ennemi.
 SKILL_20150317_001132	Targets #{CaptionRatio}#{nl}Limited Range 20{nl}
 SKILL_20150317_001133	Teleportation
-SKILL_20150317_001134	Teleports you to a random location.
+SKILL_20150317_001134	Vous téléporte dans un lieu au hasard.
 SKILL_20150317_001135	Maximum Teleport Distance #{CaptionRatio}#
 SKILL_20150317_001136	Magnetic Force
-SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Inflicts damage by drawing in the target at a targeted area. 
+SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts en dessinant dans la zone ciblée. 
 SKILL_20150317_001138	Raise
-SKILL_20150317_001139	Lift targets into the air.
+SKILL_20150317_001139	Envoie la cible dans les airs.
 SKILL_20150317_001140	Targets: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
 SKILL_20150317_001141	Gravity Pole
-SKILL_20150317_001142	Create a gravitational field that pulls all nearby enemies.
+SKILL_20150317_001142	Crée un champ gravitationnel qui attire les ennemis proches.
 SKILL_20150317_001143	Target #{CaptionRatio}#{nl}Max. duration 5 seconds
 SKILL_20150317_001144	Unbind
-SKILL_20150317_001145	Disconnect all links.
-SKILL_20150317_001146	Disconnect all links at once.{nl}Maximum Level: 1
+SKILL_20150317_001145	Déconnecte tous les liens.
+SKILL_20150317_001146	Déconnecte tous les liens une fois.{nl}Maximum Level: 1
 SKILL_20150317_001147	Physical Link
-SKILL_20150317_001148	Link party members to divide damage taken.
-SKILL_20150317_001149	More links results to less damage{nl} Max. Link #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consume 16% Stamina
+SKILL_20150317_001148	Lie les membres de l'équipe pour diviser les dégâts reçus.
+SKILL_20150317_001149	Les dégâts sont réduit en fonction du nombre de liens{nl} Max. Link #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consume 16% Stamina
 SKILL_20150317_001150	Joint Penalty
-SKILL_20150317_001151	Link enemies together. Damage inflicted on one linked enemy is inflicted upon all linked ones.
+SKILL_20150317_001151	Lie les ennemis ensembles. Les dégâts infligés à un ennemis sont infligés à tous ceux liés.
 SKILL_20150317_001152	Maximum Links: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001153	Hangman's Knot
-SKILL_20150317_001154	Groups together all linked enemies.
+SKILL_20150317_001154	Regroupe tous les ennemis liés.
 SKILL_20150317_001155	Gather time of 0.3 seconds
 SKILL_20150317_001156	Spiritual Chain
-SKILL_20150317_001157	Link party members and share buff effects.
+SKILL_20150317_001157	Lie les membres de l'équipe et partage les effets des compétences.
 SKILL_20150317_001158	Lifeline
-SKILL_20150317_001159	Share defense and HP with the linked target.
+SKILL_20150317_001159	Partage la défense et les HP avec la cible liée.
 SKILL_20150317_001160	Physical Defense Transfer: #{CaptionRatio}#{nl}HP Recovery Transfer: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001161	Swell Left Arm
-SKILL_20150317_001162	Increases your attack by enlarging your left hand.
+SKILL_20150317_001162	Agrandit votre main gauche pour augmenter votre attaque.
 SKILL_20150317_001163	Physical Attack: +#{CaptionRatio}#{nl}Magic Attack: +#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001164	Shrink Body
-SKILL_20150317_001165	Shrinks the size of a target's body.
+SKILL_20150317_001165	Réduit la taille du corps de la cible.
 SKILL_20150317_001166	Large → Medium → Small {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001167	Swell Body
 SKILL_20150317_001168	Enlarges the size of a target's body. 
 SKILL_20150317_001169	Small → Medium → Large {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001170	Transpose
-SKILL_20150317_001171	Temporarily replaces your INT and CON.
+SKILL_20150317_001171	Echange temporairement votre INT et votre CON.
 SKILL_20150317_001172	Reversi
-SKILL_20150317_001173	Changes the enemy's magic square to a friendly magic square. 
-SKILL_20150317_001174	Changes the enemy's magic circle to friendly at a targeted area.{nl}Maximum Level: 1
+SKILL_20150317_001173	Transforme une zone magique ennemie en une zone amie. 
+SKILL_20150317_001174	Transforme un cercle magique ennemi en un cercle ami.{nl}Maximum Level: 1
 SKILL_20150317_001175	Swell Right Arm
-SKILL_20150317_001176	Increases your attack by enlarging your right hand.
+SKILL_20150317_001176	Agrandit votre main droite pour augmenter votre attaque.
 SKILL_20150317_001177	Swell Brain
-SKILL_20150317_001178	Enlarges your head. 
+SKILL_20150317_001178	Agrandit votre tête. 
 SKILL_20150317_001179	Electrocute
-SKILL_20150317_001180	{#993399}{ol}[Magic] - [Lightningity]{/}{/}{nl}Shoot lightning that chains between nearby enemies.
+SKILL_20150317_001180	{#993399}{ol}[Magic] - [Lightningity]{/}{/}{nl}Créer une chaîne de foudre entre les ennemis proches.
 SKILL_20150317_001181	Attack #{SkillAtkAdd}#{nl}Target #{CaptionRatio}#
 SKILL_20150317_001182	Stone Curse
-SKILL_20150317_001183	Petrify target.
+SKILL_20150317_001183	Pétrifie la cible.
 SKILL_20150317_001184	Duration: #{CaptionTime}# seconds{nl}Splash: #{CaptionRatio}#
 SKILL_20150317_001185	Hail
-SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Shards of ice fall upon the targeted area and damage enemies.
+SKILL_20150317_001186	{#993399}{ol}[Magic] - [Ice]{/}{/}{nl}Des éclats de glace tombent sur les ennemis dans la zone ciblée.
 SKILL_20150317_001187	Prominence
-SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Swathes of fire appear around you. Fire randomly moves and damage enemies.
+SKILL_20150317_001188	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Des murs de feu apparaissent autour de vous. Le feu se déplace aléatoirement et blesse l'ennemi.
 SKILL_20150317_001189	Attack #{SkillAtkAdd}#{nl}Duration 15 seconds
 SKILL_20150317_001190	Meteor
-SKILL_20150317_001191	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Drop a meteor on the targeted area to damage enemies.
+SKILL_20150317_001191	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Un météor s'abat sur la zone ciblée et blesse les ennemis.
 SKILL_20150317_001192	Attack #{SkillAtkAdd}#{nl}Cast Time #{CaptionTime}# seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_001193	Summoning
-SKILL_20150317_001194	Summon spirits that follow you.
+SKILL_20150317_001194	Invoque un esprit qui vous suit.
 SKILL_20150317_001195	Attack Ground
-SKILL_20150317_001196	Summoned being moves to target area and attacks enemies nearby.
+SKILL_20150317_001196	L'invocation se déplace vers la zones ciblée et attaque les ennemis proches.
 SKILL_20150317_001197	Riding
-SKILL_20150317_001198	Ride on top of summoned spirit.
+SKILL_20150317_001198	Chevauche l'esprit invoqué.
 SKILL_20150317_001199	Morph
 SKILL_20150317_001200	Quicken
-SKILL_20150317_001201	Give buff that increases movement speed to 1 ally.
+SKILL_20150317_001201	Augmente la vitesse de mouvement d'un allié.
 SKILL_20150317_001202	Reincarnate
-SKILL_20150317_001203	Respawns the monster immediately after it is killed.
+SKILL_20150317_001203	Fait réapparaître un monstre immédiatement après qu'il ait été tué.
 SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Attack #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 seconds# damage {nl} Duration 10 seconds {nl}Consume #{{nl} SpendSP}# SP
 SKILL_20150317_001205	Stop
-SKILL_20150317_001206	Monsters hold their current state. All monsters in the area will stop their actions.
+SKILL_20150317_001206	Les monstres conservent leur état. Tous les monstres dans la zone stoppent leurs actions.
 SKILL_20150317_001207	Slow
 SKILL_20150317_001208	Movement Speed -#{CaptionRatio}#%{nl}Slow Duration: 5 seconds {nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001209	Haste
 SKILL_20150317_001210	Backmasking
-SKILL_20150317_001211	Reverses time in target area to a previous state.
+SKILL_20150317_001211	Reverses time in target area to a previous state--.
 SKILL_20150317_001212	Gather Corpse
 SKILL_20150317_001213	Gather body parts from enemies killed in target area.
 SKILL_20150317_001214	Create Shoggoth
@@ -3692,7 +3692,7 @@ SKILL_20150414_003691	Crée un puissant vent pour repousser la cible. Peux être
 SKILL_20150414_003692	{#993399}{ol}[Magic] - [Ice] - [Strike]{/}{/}{nl}Chevauche une énorme boule de neige et frappe un ennemi.
 SKILL_20150414_003693	{#993399}{ol}[Magic]{/}{/}{nl}Concentrez vous sur le bout de votre main pour infliger des dégâts en continu avec la psychokinésie.
 SKILL_20150414_003694	{#993399}{ol}[Magic]{/}{/}{nl}Utilisez la psychokinésie pour capturer une cible devant vous et la lancer au loin.{nl}Inflige des dégâts en lançant la cible capturées dans un direction en utilisant les flèches du clavier.
-SKILL_20150414_003695	Echange la position du joueur avec celle d'un ennemi--.
+SKILL_20150414_003695	Echange la position du joueur avec celle d'un ennemi.
 SKILL_20150414_003696	Téléporte vers un lieu au hasard.
 SKILL_20150414_003697	{#993399}{ol}[Magic]{/}{/}{nl}Inflict damage on multiple enemies by pulling them to a targeted area causing them to collide with each other.
 SKILL_20150414_003698	Lift nearby enemies up into the air. Enemies in the air are temporarily detected as a Flying-type.
