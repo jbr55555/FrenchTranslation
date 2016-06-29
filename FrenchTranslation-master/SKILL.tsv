@@ -1154,7 +1154,7 @@ SKILL_20150317_001153	Hangman's Knot
 SKILL_20150317_001154	Regroupe tous les ennemis liés.
 SKILL_20150317_001155	Gather time of 0.3 seconds
 SKILL_20150317_001156	Spiritual Chain
-SKILL_20150317_001157	Lie les membres de l'équipe et partage les effets des compétences.
+SKILL_20150317_001157	Lie les membres de l'équipe et partage les buffs.
 SKILL_20150317_001158	Lifeline
 SKILL_20150317_001159	Partage la défense et les HP avec la cible liée.
 SKILL_20150317_001160	Physical Defense Transfer: #{CaptionRatio}#{nl}HP Recovery Transfer: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
@@ -1203,20 +1203,20 @@ SKILL_20150317_001202	Reincarnate
 SKILL_20150317_001203	Fait réapparaître un monstre immédiatement après qu'il ait été tué.
 SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Attack #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 seconds# damage {nl} Duration 10 seconds {nl}Consume #{{nl} SpendSP}# SP
 SKILL_20150317_001205	Stop
-SKILL_20150317_001206	Les monstres conservent leur état. Tous les monstres dans la zone stoppent leurs actions.
+SKILL_20150317_001206	Les monstres s'immobilisent. Tous les monstres dans la zone stoppent leurs actions.
 SKILL_20150317_001207	Slow
 SKILL_20150317_001208	Movement Speed -#{CaptionRatio}#%{nl}Slow Duration: 5 seconds {nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001209	Haste
 SKILL_20150317_001210	Backmasking
-SKILL_20150317_001211	Reverses time in target area to a previous state--.
+SKILL_20150317_001211	Inversez le temps dans la zone cible pour revenir à un état antérieur.
 SKILL_20150317_001212	Gather Corpse
-SKILL_20150317_001213	Gather body parts from enemies killed in target area.
+SKILL_20150317_001213	Rassemblez les parties du corps des ennemis tués dans la zone ciblée.
 SKILL_20150317_001214	Create Shoggoth
-SKILL_20150317_001215	Use corpses to summon a Shoggoth from the necronomicon.
+SKILL_20150317_001215	Utilise les corps pour invoquer un Shoggoth du Necronomicon.
 SKILL_20150317_001216	Flesh Cannon
-SKILL_20150317_001217	Throw dead parts at target area.
+SKILL_20150317_001217	Lance des parties de corps dans la zone cible.
 SKILL_20150317_001218	Flesh Hoop
-SKILL_20150317_001219	Surround yourself with wall of corpses that inflict damage on monsters within radius.
+SKILL_20150317_001219	Entourez-vous d'un mur de cadavres qui infligent des dégâts aux monstres proches.
 SKILL_20150317_001220	Dirty Wall
 SKILL_20150317_001221	Disinter
 SKILL_20150317_001222	Combustion
@@ -1226,162 +1226,162 @@ SKILL_20150317_001225	Roasting
 SKILL_20150317_001226	Briquetting
 SKILL_20150317_001227	Tincturing
 SKILL_20150317_001228	Magnum Opus
-SKILL_20150317_001229	Create magic barrier on target area that blocks enemy attacks.
+SKILL_20150317_001229	Crée une barrière magique qui bloque les attaques ennemies dans la zone ciblée.
 SKILL_20150317_001230	Lv.1 Duration #{CaptionTime}# seconds, block 6 times, Maximum Targets: #{CaptionRatio}# Lv.2 Duration #{CaptionTime}# seconds, block 6 times, Maximum Targets: #{CaptionRatio}# Lv.3 Duration #{CaptionTime}# seconds, block 6 times, Maximum Targets: #{CaptionRatio}#
-SKILL_20150317_001231	Create an area of fog in front. Accuracy of enemies located in the fog decrease.
+SKILL_20150317_001231	Crée un mur de brouillard devant voud. La précision des ennemis dans le brouillard est diminuée.
 SKILL_20150317_001232	Duration #{CaptionTime}# seconds, Accuracy -#{CaptionRatio}#%{nl}Consume #{SpendSP}# SP
-SKILL_20150317_001233	Shock the enemies under [Freeze] nearby and inflict damage.
+SKILL_20150317_001233	Inflige des dégâts aux ennemis proches ayant le statut [Freeze].
 SKILL_20150317_001234	Lv.1 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.2 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.3 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.4 Attack rate #{SkillFactor}#, Splash #{SkillSR}# Lv.5 Attack rate #{SkillFactor}#, Splash #{SkillSR}#
-SKILL_20150317_001235	Apply [Curse] to the target and reduce its defense
+SKILL_20150317_001235	Confère la statut [Curse] à la cible et réduit sa défense.
 SKILL_20150317_001236	Lv.1 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Duration: #{CaptionTime}# seconds Lv.2 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Duration: #{CaptionTime}# seconds Lv. 3 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Duration: #{CaptionTime}# seconds Lv.4 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Duration: #{CaptionTime}# seconds Lv.5 Defense, Magic Resistance: -#{CaptionRatio}#% {nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_001237	Inflicts damage on targets who are affected by [Curse]. Every 3rd attack inflicts greater damage.
+SKILL_20150317_001237	Inflige des dégâts aux cibles ayant le statut [Curse]. Inflige plus de dégâts toutes les 3 attaques.
 SKILL_20150317_001238	Lv.1 Attack Rate: #{SkillFactor}#, Attack Rate every 3rd attack: #{CaptionRatio}#{nl}Range: #{Arg1}# Lv.2 Attack Rate: #{SkillFactor}#, Attack Rate every 3rd attack: #{CaptionRatio}#{nl}Range: #{Arg1}# Lv.3 Attack Rate: #{SkillFactor}#, Attack Rate every 3rd attack: #{CaptionRatio}#{nl}Range: #{Arg1}# Lv.4 Attack Rate: #{SkillFactor}#, Attack Rate every 3rd attack: #{CaptionRatio}#{nl}Range: #{Arg1}# Lv.5 Attack Rate: #{SkillFactor}#, Attack Rate every 3rd attack: #{CaptionRatio}#{nl}Range: #{Arg1}#
-SKILL_20150317_001239	Inflicts damage to nearby enemies by summoning an aura of [Addiction].
+SKILL_20150317_001239	Inflige des dégâts aux ennemis proches en invoquant une aura de [Addiction].
 SKILL_20150317_001240	Lv.1 Attack Rate #{SkillFactor}# of damage every 0.5 seconds {nl}Duration: #{CaptionTime}# seconds Lv.2 Attack Rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration #{CaptionTime}# seconds Lv.3 attack rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration: #{CaptionTime}# seconds Lv.4 Attack Rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration: #{CaptionTime}# seconds Lv.5 Attack Rate every #{SkillFactor}# of damage every 0.5 seconds {nl}Duration: #{CaptionTime}# seconds
-SKILL_20150317_001241	Draw the Noir of War on the ground. Increases STR and INT of active allies.
+SKILL_20150317_001241	Dessine le Noir of War sur le sol. Augmente la STR et l'INT des alliés.
 SKILL_20150317_001242	Lv.1 STR, INT: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.2 STR, INT: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.3 STR, INT: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.4 STR, INT: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv. 5 STR, INT: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes
-SKILL_20150317_001243	Draw the Noir of Death on ground. Increases CON and AGI of active allies.
+SKILL_20150317_001243	Dessine le Noir of Death sur le sol. Augmente la CON et l'AGI des alliés.
 SKILL_20150317_001244	Lv.1 CON, AGI: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl}Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.2 CON, AGI: +#{CaptionRatio2}#, Applies to a maximum of #{CaptionRatio}# players{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.3 CON, AGI: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv.4 CON, AGI: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes Lv. 5 CON, AGI: +#{CaptionRatio2}#, Maximum Targets: #{CaptionRatio}#{nl} Skill Duration: #{CaptionTime}# seconds, Buff duration 2 minutes
 SKILL_20150317_001245	Currently in development
-SKILL_20150317_001246	Summon magic circle that heals allies.
+SKILL_20150317_001246	Invoque un cercle magique qui soigne les alliés.
 SKILL_20150317_001247	Marble
 SKILL_20150317_001248	Black Hole
-SKILL_20150317_001249	Change HP and SP and create defense shield.
-SKILL_20150317_001250	Change HP and SP, Create defense shield of #{CaptionTime}% of MHP for # seconds
-SKILL_20150317_001251	Temporarily increase the attack and  SP consumption of all skills.
+SKILL_20150317_001249	Echange les HP et les SP et crée un bouclier de défense.
+SKILL_20150317_001250	Echange les HP et les SP, crée un bouclier de défense de #{CaptionTime}% of MHP for # seconds
+SKILL_20150317_001251	Augmente temporairement les attaques et la dépense de SP de toutes les compétences.
 SKILL_20150317_001252	Attack + #{CaptionRatio}#%{nl}SP consumed +50% {nl}Duration 30 seconds{nl}Consume #{SpendSP}# SP
-SKILL_20150317_001253	All the enemies of the target region are gathered together and damaged.
+SKILL_20150317_001253	Tous les ennemis de la zone ciblée sont réunis et blessés.
 SKILL_20150317_001254	Duration #{CaptionTime}# seconds, Defend 6 times, Maximum Targets: #{CaptionRatio}#
-SKILL_20150317_001255	Surround target with powerful energy. Inflict damage to those nearby target.
+SKILL_20150317_001255	Entoure la cible d'une puissante énergie. Inflige des dégâts aux ennemis proches de la cibles.
 SKILL_20150317_001256	Attack rate #{SkillFactor}#, Splash #{SkillSR}#
-SKILL_20150317_001257	Drop meteor around and inflict [Fire] damage on enemies.
+SKILL_20150317_001257	Un météor s'abat sur la zone et inflige des dégâts aux ennemis.
 SKILL_20150317_001258	[Fire] [Strike] Damage + #{SkillFactor}#{nl} meteor count #{CaptionRatio}#{nl} Dog Splash #{SkillSR}#{nl} consumption SP #{SpendSP}#
 SKILL_20150317_001259	Freeze enemy.
 SKILL_20150317_001260	Countdown
-SKILL_20150317_001261	Turn back time of allies. HP, SP, STA, Skill cool
-SKILL_20150317_001262	Summon spirit that attacks while moving.
-SKILL_20150317_001263	Use your own demon to inflict damage to nearby enemies.
-SKILL_20150317_001264	Spirit receives all the damage of summoner.
-SKILL_20150317_001265	Create clone of yourself and move away from area after using skill.
-SKILL_20150317_001266	Buff for adding attack speed
+SKILL_20150317_001261	Faites remontez le temps aux alliés, leurs HP, SP, STA et les compétences sont restaurés.
+SKILL_20150317_001262	Invoque un esprit qui attaque lorsqu'il se déplace.
+SKILL_20150317_001263	Utilisez votre démon pour infliger des dégâts aux ennemis proches.
+SKILL_20150317_001264	Les esprits reçoivent tous les dégâts de l'invocateur.
+SKILL_20150317_001265	Créez un clone de vous-même et sortez de la zone après l'utilisation de cette compétence.
+SKILL_20150317_001266	Compétence d'amélioration de la vitesse d'attaque
 SKILL_20150317_001267	Make ground skill of enemies be usable by allies.
 SKILL_20150317_001268	test
 SKILL_20150317_001269	Multi Shot
-SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Charge up and then quickly launch multiple shots at a targeted area.
+SKILL_20150317_001270	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Chargez puis lancez rapidement plusieurs projectiles sur la zone ciblée.
 SKILL_20150317_001271	Attack: #{SkillAtkAdd}#{nl}Number of Shots: #{CaptionRatio}#
 SKILL_20150317_001272	Full Draw
-SKILL_20150317_001273	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire a shot that can skewer enemies together.
+SKILL_20150317_001273	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tire un projectile qui peut embrocher les ennemis ensemble.
 SKILL_20150317_001274	Attack: #{SkillAtkAdd}#{nl}{#339999}{ol}[Skew]{/}{/} Duration: #{CaptionTime}# seconds
 SKILL_20150317_001275	Kneeling Shot
-SKILL_20150317_001276	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {nl}Kneel to increase attack speed, damage, and range.
+SKILL_20150317_001276	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {nl}Vous mettez un genou à terre pour augmenter la vitesse d'attaque, les dégâts et la portée.
 SKILL_20150317_001277	Physical Damage + #{CaptionRatio}#{nl} Range + #{CaptionRatio2}#
 SKILL_20150317_001278	Swift Step
-SKILL_20150317_001279	Increase movement speed while attacking.
+SKILL_20150317_001279	Augmente la vitesse de mouvement lorsque vous attaquez.
 SKILL_20150317_001280	Moving Shot Movement Speed: +#{SkillFactor}#%{nl}Defense: -#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001281	Oblique Shot
-SKILL_20150317_001282	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Fire an arrow that bounces off of the target to hit an adjacent enemy.
+SKILL_20150317_001282	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tire une flèche qui rebondit sur la cible et blesse un ennemi adjacent.
 SKILL_20150317_001283	Attack #{SkillAtkAdd}#{nl}Bounced arrow damage #{CaptionRatio}#%
 SKILL_20150317_001284	Barrage
-SKILL_20150317_001285	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot 5 arrows forward in an arc towards the ground.
+SKILL_20150317_001285	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tire 5 flèches en arc de cercle sur le sol devant vous.
 SKILL_20150317_001286	High Anchoring
-SKILL_20150317_001287	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pull your bowstring back to strongly shoot an arrow that penetrates through enemies in front of you.
+SKILL_20150317_001287	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Bandez votre arc au maximum pour tirer une puissante flèche qui transperce les ennemis devant vous.
 SKILL_20150317_001288	Critical Shot
-SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot arrow to target with high chance of critical.
+SKILL_20150317_001289	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tirez une flèche sur la cible qui a une grand chance de faire un coup critique.
 SKILL_20150317_001290	Attack #{SkillAtkAdd}#{nl}Additional Critical Chance 50%
 SKILL_20150317_001291	Steady Aim
-SKILL_20150317_001292	Attak power increase but attack speed decrease.
+SKILL_20150317_001292	Augmente la puissance d'attaque mais réduit la vitesse d'attaque.
 SKILL_20150317_001293	Additional Damage: +#{CaptionRatio}#{nl}Attack Speed: -#{CaptionRatio2}#% {nl}Duration: 40 seconds
 SKILL_20150317_001294	Time Bomb Arrow
-SKILL_20150317_001295	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Hang a bomb on an arrow and shoot it at an enemy.
+SKILL_20150317_001295	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Accrochez une bombe à une flèche et tirez la sur un ennemi.
 SKILL_20150317_001296	Attack: #{SkillAtkAdd}#{nl}Bomb Duration: 5 seconds
 SKILL_20150317_001297	Bounce Shot
-SKILL_20150317_001298	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow that bounces off the target to hit nearby enemies.
+SKILL_20150317_001298	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tirez une flèche qui rebondit sur la cible et blesse les ennemis proches.
 SKILL_20150317_001299	Arrow Sprinkle
-SKILL_20150317_001300	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Jump backwards while shooting multiple arrows forward.
+SKILL_20150317_001300	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Sautez en arrière en tirant plusieurs flèches devant vous.
 SKILL_20150317_001301	Attack #{SkillAtkAdd}#{nl}Attack 5 times
 SKILL_20150317_001302	Spiral Arrow
-SKILL_20150317_001303	Buffs your next attack to do an additional hit.
+SKILL_20150317_001303	Votre prochaine attaque fera des dégâts supplémentaires.
 SKILL_20150317_001304	Continuous Attacks: #{CaptionRatio}#{nl}Duration: 10 seconds
 SKILL_20150317_001305	Deploy Pavise
-SKILL_20150317_001306	Install a Pavise on the ground to defend against projectiles.
+SKILL_20150317_001306	Installe un pavois devant vous pour vous protéger des projectiles.
 SKILL_20150317_001307	Defend range projectile #{SkillFactor}# times{nl}Pavise duration #{CaptionTime}# seconds
 SKILL_20150317_001308	Scatter Caltrops
-SKILL_20150317_001309	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Throw caltrops on the ground to damage and slow down enemies that step on them.
+SKILL_20150317_001309	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}Jetez une herse sur le sol pour blesser et ralentir les ennemis qui marchent dessus.
 SKILL_20150317_001310	Attack #{SkillAtkAdd}#{nl}Throw #{CaptionRatio2}#{nl}Caltrop duration 20 seconds{nl}{#339999}{ol}[Slow]{/}{/} Duration 10 seconds
 SKILL_20150317_001311	Stone Picking
-SKILL_20150317_001312	Pick up stone projectiles found on the field. Cannot be obtained in town.
+SKILL_20150317_001312	Ramassez une pierre dans la zone. Ne fonctionne pas en ville.
 SKILL_20150317_001313	Obtainable Stone Bullets: #{SkillFactor}#
 SKILL_20150317_001314	Stone Shot
-SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Fire stone bullet and push away enemy. The target has a chance to become afflicted with [Stun].
+SKILL_20150317_001315	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Tirez une balle de pierre qui repousse les ennemis. A une chance de conférer la statut [Stun] à la cible.
 SKILL_20150317_001316	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration #{CaptionRatio2}# seconds{nl}Use 1 stone bullet
 SKILL_20150317_001317	Rapid Fire
-SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Load multiple arrows into your crossbow and then quickly shoot them at the enemy.
+SKILL_20150317_001318	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Chargez plusieurs flèches dans votre arbalète et tirez les rapidement sur l'ennemi.
 SKILL_20150317_001319	Attack: #{SkillAtkAdd}#{nl}Maximum Loading Time: #{CaptionTime}# seconds
 SKILL_20150317_001320	Broom Trap
-SKILL_20150317_001321	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Set a trap that damages nearby enemies.
+SKILL_20150317_001321	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Installez un piège qui blesse les ennemis proches.
 SKILL_20150317_001322	Attack: #{SkillAtkAdd}#{nl}Duration: 15 seconds
-SKILL_20150317_001323	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set a trap that fires buckshot and damages enemy.
+SKILL_20150317_001323	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Installez un piège qui tire une chevrotine et blesse les ennemis.
 SKILL_20150317_001324	Attack: #{SkillAtkAdd}#{nl}Splash: #{CaptionRatio}#
 SKILL_20150317_001325	Punji Stake
-SKILL_20150317_001326	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Set trap that blows away enemies when stepping on it.
+SKILL_20150317_001326	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Installez un piège qui repousse les ennemis qui marchent dessus.
 SKILL_20150317_001327	Attack: #{SkillAtkAdd}#{nl}Casting Time: 3 seconds
 SKILL_20150317_001328	Detonate Traps
-SKILL_20150317_001329	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Detonate nearby traps and magic circles to damage enemies.
+SKILL_20150317_001329	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Faites exploser les pièges et les cercles magiques proches pour blesser les ennemis.
 SKILL_20150317_001330	Attack: #{SkillAtkAdd}#{nl}Bomb Explosion Count: #{CaptionRatio}#
 SKILL_20150317_001331	Coursing
-SKILL_20150317_001332	Companion bites and holds on to target. Bonus chance of critical is applied on target.
+SKILL_20150317_001332	Votre compagnon mord et retient la cible. Un bonus de chance de critique est appliqué sur la cible.
 SKILL_20150317_001333	Additional Critical Chance: 30% {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001334	Retrieve
-SKILL_20150317_001335	Companion bites the target and brings it to the player.
+SKILL_20150317_001335	Votre compagnon mord la cible et la rapporte au joueur.
 SKILL_20150317_001336	Drive in enemies with less HP less than #{CaptionRatio}#%{nl} Duration 4 seconds
 SKILL_20150317_001337	Snatching
-SKILL_20150317_001338	Your Companion bites Flying-type enemies and drags them to the ground.
+SKILL_20150317_001338	Votre compagnon mord les ennemis de type Flying et les met au sol.
 SKILL_20150317_001339	Praise
-SKILL_20150317_001340	Temporarily increase movement speed and attack speed of companion.
+SKILL_20150317_001340	Aumente temporairement la vitesse de mouvement et la vitesse d'attaque du compagnon.
 SKILL_20150317_001341	Companion Movement Speed: +#{CaptionRatio}#%{nl}Duration: 60 seconds
 SKILL_20150317_001342	Pointing
-SKILL_20150317_001343	Your Companion taunts and draws attention from the target. Decreases the target's Evasion.
+SKILL_20150317_001343	Votre compagnon provoque et détourne l'attention de la cible. Reduit l'Evasion de la cible.
 SKILL_20150317_001344	Evasion: -#{CaptionRatio}#{nl}Duration: 10 seconds
 SKILL_20150317_001345	Hounding
-SKILL_20150317_001346	Your companion finds hidden enemies nearby.
+SKILL_20150317_001346	Votre compagnon débusque les ennemis cachés proches.
 SKILL_20150317_001347	Detoxify
-SKILL_20150317_001348	Removes poison from the target. Cannot cure poisons that are higher level than Detoxify, instead decreasing their duration.
+SKILL_20150317_001348	Enlève le poison de la cible. Ne peut pas soigner les poisons de plus haut niveau que Detoxify, réduit leur durée à la place.
 SKILL_20150317_001349	Duration: -#{CaptionRatio}# seconds{nl}Consumes #{SpendPoison}# Poison Pot Poison
 SKILL_20150317_001350	Needle Blow
-SKILL_20150317_001351	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot toxic arrow that poisons the enemy to inflict damage over time.
+SKILL_20150317_001351	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Tirez une flèche toxique qui empoisonne les ennemis et leur fait des dégâts sur la durée.
 SKILL_20150317_001352	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 30 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001353	Bewitch
-SKILL_20150317_001354	Inflicts confusion on a poisoned enemy.
+SKILL_20150317_001354	Inflige Confusion sur un ennemi empoisonné.
 SKILL_20150317_001355	{#339999}{ol}[Confusion]{/}{/}{nl} Duration: 10 seconds {nl}Consumes  #{SpendPoison}# Poison Pot Poison
 SKILL_20150317_001356	Wugong Gu
-SKILL_20150317_001357	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot contagious poison arrow. Target spreads poison around to nearby enemies whenever it is hit with magic.
+SKILL_20150317_001357	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Tirez une flèche empoisonnée contagieuse. La cible répand le poison aux ennemis autour d'elle à chaque fois qu'elle est touchée par de la magie.
 SKILL_20150317_001358	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Poison]{/}{/} Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001359	Throw Gu Pot
-SKILL_20150317_001360	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Throw Poison jar and create a poison puddle.
+SKILL_20150317_001360	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Jetez une bouteille de poison pour créer une flaque.
 SKILL_20150317_001361	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001362	Jincan Gu
-SKILL_20150317_001363	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Shoot an arrow containing parasites at the enemy.
+SKILL_20150317_001363	{#DD5500}{ol}[Physical] - [Poison] - [Pierce]{/}{/}{nl}Tirez une flèche qui contient des parasites sur l'ennemi.
 SKILL_20150317_001364	Attack #{SkillAtkAdd}#{nl}Use #{SpendPoison}# Poison pot
 SKILL_20150317_001365	Camouflage
-SKILL_20150317_001366	Hide yourself in an apple barrel to avoid the attention of enemies. The barrel provides defense against several attacks.
+SKILL_20150317_001366	Cachez-vous dans un tonneau de pomme pour éviter des ennemis. Le tonneau vous protège contre plusieurs attaques.
 SKILL_20150317_001367	Number of Blocks: #{CaptionRatio}#{nl}Movement Speed: -#{CaptionRatio}#
 SKILL_20150317_001368	Flu Flu
-SKILL_20150317_001369	Shoot a noisemaker arrow at the enemy. Also affect enemies nearby.
+SKILL_20150317_001369	Tirez une flèche bruyante sur l'ennemi. Affecte aussi les ennemis proches.
 SKILL_20150317_001370	Attack #{SkillAtkAdd}#{nl}target hit {#339999}{ol}[Fear]{/}{/}+{#339999}{ol}[Confusion]{/}{/}{nl}{#339999}{ol}Inflict [Fear] to Maximum Targets: #{CaptionRatio}# {#339999}{ol}{/}{/}{nl}Duration #{CaptionTime}#
 SKILL_20150317_001371	Flare Shot
-SKILL_20150317_001372	Shoot a flare at the targeted area. Sparks shoot out of the flare to damage nearby enemies.
+SKILL_20150317_001372	Tirez une fusée dans la zone ciblée. Les étincelles qui sortent de la fusée blessent les ennemis.
 SKILL_20150317_001373	Attack #{SkillAtkAdd}#{nl}Duration 10 seconds
 SKILL_20150317_001374	Cloaking
-SKILL_20150317_001375	Hide from enemy.
+SKILL_20150317_001375	Cachez vous pour éviter les ennemis.
 SKILL_20150317_001376	Duration: #{CaptionTime}# seconds
 SKILL_20150317_001377	Perspective Distortion
-SKILL_20150317_001378	Distort your location to make close range attacks possible even from afar.
+SKILL_20150317_001378	Déformez la zone pour rendre possible les attaques à distance même de très loin.
 SKILL_20150317_001379	Max. duration 10 seconds {nl} #{CaptionRatio}# SP consumed per second
 SKILL_20150317_001380	Scan
-SKILL_20150317_001381	Shows hidden enemies and items in target area.
+SKILL_20150317_001381	Montre les ennemis et les objets cachés dans la zone ciblée.
 SKILL_20150317_001382	Duration: 10 seconds
 SKILL_20150317_001383	Be Prepared
-SKILL_20150317_001384	Decreases the cooldown on all current skills.
+SKILL_20150317_001384	Diminue les temps de réutilisation de toutes les compétences.
 SKILL_20150317_001385	Cooldown: -#{CaptionRatio} seconds#{nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001386	Sneak Hit
 SKILL_20150317_001387	Feint
@@ -1390,26 +1390,26 @@ SKILL_20150317_001389	Arrow fight...
 SKILL_20150317_001390	{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Target 20% damage to the defending leather {nl} sheeting defensive target to -20% damage every 1 sec {nl} + #{CaptionRatio}# bleed damage sustained six seconds {nl} {nl} consumption bleeding SP #{SpendSP}#
 SKILL_20150317_001391	Burrow
 SKILL_20150317_001392	Broadhead
-SKILL_20150317_001393	Shoots an arrow that causes bleeding effect.
+SKILL_20150317_001393	Tirez une flèche qui confère la statut [Bleeding] à la cible.
 SKILL_20150317_001394	Bodkin Point
-SKILL_20150317_001395	Shoots an arrow that decreases enemy defense and removes shielding magic.
+SKILL_20150317_001395	Tirez une flèche qui diminue la défense ennemi et supprime les boucliers magiques.
 SKILL_20150317_001396	{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl}#{odds shield removal CaptionRatio}#% {nl} Armor reduced by 30% to 70% chance {nl} consumption SP #{SpendSP}#
 SKILL_20150317_001397	Barbed Arrow
-SKILL_20150317_001398	Shoots a barbed arrow. Hits an enemy multiple times, depending on the enemy's armor type.
+SKILL_20150317_001398	Tirez une flèche en fer barbelé. Blesse un ennemi plusieurs fois en fonction de son type d'armure.
 SKILL_20150317_001399	Attack rate #{SkillFactor}#
 SKILL_20150317_001400	Crossfire
-SKILL_20150317_001401	Shoot an arrow that explodes in a cross if it kills the monster.
+SKILL_20150317_001401	Tirez une flèche qui explose en croix si elle tue un monstre.
 SKILL_20150317_001402	{#CC3300}{ol}[Pierce]{/}{/}Attribute {nl}#{SkillFactor}#% + #{SkillAtkAdd}#{nl} Splash #{SkillSR}#{nl} Consume #{SpendSP }# SP
 SKILL_20150317_001403	Playing Flute
 SKILL_20150317_001404	Feelings
-SKILL_20150317_001405	Move away from current area by jumping and rotating backwards. Successfully evading enemy attack results in drastic increase of critical strike chance on the next attack.
+SKILL_20150317_001405	Echappez vous de la zone en sautant et en vous retournant. Si vous évitez une attaque ennemie votre prochaine attaque verra ses chances de critiques augmenter fortement.
 SKILL_20150317_001406	Leg Shot
-SKILL_20150317_001407	Shoot feet of target to slow it down.
+SKILL_20150317_001407	Tirez une flèche dans le pied de la cible pour le ralentir.
 SKILL_20150317_001408	Lv.1 Attack rate #{SkillFactor}# Lv.2 Attack rate #{SkillFactor}# Lv.3 Attack rate #{SkillFactor}#
-SKILL_20150317_001409	Prevent enemy from moving. Enemy will temporarily slow down when released.
-SKILL_20150317_001410	Install turret that inflicts damage to enemies in its sights.
-SKILL_20150317_001411	Install scarecrow that provokes enemies to attack itself.
-SKILL_20150317_001412	Temporarily blind enemy. Enemy cannot use abilities whilst blinded.
+SKILL_20150317_001409	Empêche l'ennemi de bouger. L'ennemi sera temporairement ralenti après qu'il se soit débloqué.
+SKILL_20150317_001410	Installe une tour qui inflige des dégâts aux ennemis à sa portée.
+SKILL_20150317_001411	Installe un épouventail qui pousse les ennemis à l'attaquer.
+SKILL_20150317_001412	Aveugle temporairement l'ennemi. L'ennemi ne peut pas utiliser ses compétences tant qu'il est aveugle.
 SKILL_20150317_001413	Chance of Blindness #{CaptionRatio}#% {nl} Consume #{SpendSP}# SP
 SKILL_20150317_001414	Saber Thrust
 SKILL_20150317_001415	Saber Bash
@@ -1421,43 +1421,43 @@ SKILL_20150317_001420	Pommel Attack
 SKILL_20150317_001421	Weakening
 SKILL_20150317_001422	Caracole
 SKILL_20150317_001423	Limacon
-SKILL_20150317_001424	{#DD5500}{ol}[Pierce]{/}{/}{nl} Installs a large crossbow.
+SKILL_20150317_001424	{#DD5500}{ol}[Pierce]{/}{/}{nl} Installe une grande arbalète.
 SKILL_20150317_001425	Attack {#DD4400}{ol}[Physical Damage]{/}{/}+#{SkillAtkAdd}#{nl}Duration 60 seconds{nl}Consume #{SpendSP}# SP
-SKILL_20150317_001426	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Creates up to five magic tiles that heals allies and damage enemies that walk on it.
+SKILL_20150317_001426	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Crée jusqu'à 5 zones magiques qui soignent les alliés et blessent les ennemis qui marchent dessus.
 SKILL_20150317_001427	Attack #{SkillAtkAdd}#{nl}HP Recovery Rate #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration 40seconds
 SKILL_20150317_001428	Cure
-SKILL_20150317_001429	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Create a magic tile that removes harmful effects from allies and damages enemies that walk on it.
+SKILL_20150317_001429	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl} Crée une zone magique qui retire les debuffs des alliés et blessent les ennemis qui marche dessus.
 SKILL_20150317_001430	Attack: #{SkillAtkAdd}#{nl}Attack Count: #{CaptionRatio}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150317_001431	Safety Zone
-SKILL_20150317_001432	Creates a magic circle that blocks incoming attacks.
+SKILL_20150317_001432	Crée un cercle magique qui bloque les attaques ennemies.
 SKILL_20150317_001433	Number of Blocks: #{SkillFactor}#{nl} Magic Circle Duration: 20 seconds
 SKILL_20150317_001434	Deprotected Zone
-SKILL_20150317_001435	Create magic circle that continuously decrease the defense of target.
+SKILL_20150317_001435	Crée un cercle magique qui réduit continuellement la défense de la cible.
 SKILL_20150317_001436	Defense: -#{CaptionRatio}#{nl}Per Stack: -#{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
 SKILL_20150317_001437	Divine Might
-SKILL_20150317_001438	Create magic circle that increases skill level of target. Effect is gone when used and cannot be overlapped.
+SKILL_20150317_001438	Crée un cercle magique qui augment le niveau de compétence de la cible. L'effet est supprimé lorsqu'il est utilisé et ne peut pas être cumulé.
 SKILL_20150317_001439	Skill Level: +#{SkillFactor}#{nl}Duration: 10 seconds {nl}Magic Circle Duration: 20 seconds
-SKILL_20150317_001440	Summon torch and increase HP recovery in the vicinity.
+SKILL_20150317_001440	Invoque une torche qui augmente la récupération des HP des alliés proches.
 SKILL_20150317_001441	HP recovery ability increases {nl}Torch duration #{CaptionTime}# seconds
 SKILL_20150317_001442	Zalciai
-SKILL_20150317_001443	Generate magic circle that change critical capacity of the subject.
+SKILL_20150317_001443	Crée un cercle magique qui modifie les critiques de la cible.
 SKILL_20150317_001444	Ally's Critical Attack: +#{CaptionRatio}#{nl}Enemy's Critical Resistance: -#{CaptionRatio2}#
 SKILL_20150317_001445	Daino
-SKILL_20150317_001446	Increase number of beneficial buffs that a user can have at any one time.
+SKILL_20150317_001446	Augmente le nombre de buffs que l'utilisateur peut avoir au même moment.
 SKILL_20150317_001447	Max. count +#{SkillFactor}#{nl}Duration 200 seconds
-SKILL_20150317_001448	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Create a magic circle circle that summons lightning to strike anything within it.
+SKILL_20150317_001448	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Crée un cercle magique qui déclenche un éclair de foudre si un ennemi marche dessus.
 SKILL_20150317_001449	Attack #{SkillAtkAdd}#{nl}Attack #{CaptionRatio}# times {nl}Magic circle Duration 30 seconds
 SKILL_20150317_001450	Divine Stigma
-SKILL_20150317_001451	Mark monster. The player that kills the monster will get increased STR and INT.
+SKILL_20150317_001451	Marque un monstre. Le joueur qui tue les monstre verra sa STR et son INT augmenter.
 SKILL_20150317_001452	STR, INT: +#{CaptionRatio}#{nl}Effect Duration: 30 seconds{nl}Stigma Duration: #{CaptionRatio2}# seconds
 SKILL_20150317_001453	Melstis
-SKILL_20150317_001454	Create magic circle that retains buffs for party members.
+SKILL_20150317_001454	Crée un cercle magique qui conservent les buffs des membres de l'équipe.
 SKILL_20150317_001455	Max. duration 20 seconds {nl} #{CaptionRatio}#% of SP consumed per second
 SKILL_20150317_001456	Aspersion
-SKILL_20150317_001457	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Sprinkle holy water to increase defense of target and damage enemies.
+SKILL_20150317_001457	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Répand de l'eau bénite pour augmenter la défense des alliés et blesser les ennemis.
 SKILL_20150317_001458	Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	Monstrance
-SKILL_20150317_001460	Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease.
+SKILL_20150317_001460	Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease--.
 SKILL_20150317_001461	Maximum Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	Blessing
 SKILL_20150317_001463	Increase the damage of party members' skills.
@@ -2064,7 +2064,7 @@ SKILL_20150317_002063	When you attack while [Concentrate] is active, there is a 
 SKILL_20150317_002064	Restrain: Duration
 SKILL_20150317_002065	Increases the duration of [Restrain] by 5 seconds per level.
 SKILL_20150317_002066	Thrust: Critical Chance
-SKILL_20150317_002067	Increases the critical chance of [Thrust] by 10% per attribute level.
+SKILL_20150317_002067	Augmente les chances de critique de [Thrust] de 10% par niveau de compétence.
 SKILL_20150317_002068	Swash Buckling: Maximum HP
 SKILL_20150317_002069	Increases the maximum HP of your character by 5% per attribute level while [Swash Buckling] is active. 
 SKILL_20150317_002070	Swash Buckling: Range
@@ -2158,7 +2158,7 @@ SKILL_20150317_002157	Reflection damage of [Reflect shield] is added per attribu
 SKILL_20150317_002158	Reflect Shield: Defense
 SKILL_20150317_002159	Increases your defense by 5% per level when [Reflect Shield] is active.
 SKILL_20150317_002160	Energy Bolt: Additional Sleep Damage
-SKILL_20150317_002161	Attack monster in [sleep] state with [Energy Bolt] to give additional damage of 50% of Magic attack.
+SKILL_20150317_002161	Attaquez un monstre ayant le statut [Sleep] avec [Energy Bolt] pour lui infliger 50% de dégâts supplémentaires avec une attaque magique.
 SKILL_20150317_002162	Lethargy: Duration
 SKILL_20150317_002163	Increases the duration of [Lethargy] by 2 seconds per level.
 SKILL_20150317_002164	Lethargy: Strike
@@ -2475,137 +2475,137 @@ SKILL_20150317_002474	You can change directions while using [Energy Blast] (Not 
 SKILL_20150317_002475	Ballista: Duration
 SKILL_20150317_002476	Increases the duration of [Ballista] by 2 seconds per attribute level. 
 SKILL_20150317_002477	Bash: Enhance
-SKILL_20150317_002478	Increases the damage of [Bash] per attribute level.
+SKILL_20150317_002478	Augmente les dégâts de [Bash] par niveau de compétence.
 SKILL_20150317_002479	Thrust: Enhance
-SKILL_20150317_002480	Increases the damage of [Thrust] per attribute level.
+SKILL_20150317_002480	Augmente les dégâts de [Thrust] par niveau de compétence.
 SKILL_20150317_002481	Rim Blow: Enhance
-SKILL_20150317_002482	Increases the damage of [Rim Blow] per attribute level.
+SKILL_20150317_002482	Augmente les dégâts de [Rim Blow] par niveau de compétence.
 SKILL_20150317_002483	Umbo Blow: Enhance
-SKILL_20150317_002484	Increases the damage of [Umbo Blow] per attribute level.
+SKILL_20150317_002484	Augmente les dégâts de [Umbo Blow] par niveau de compétence.
 SKILL_20150317_002485	Cartar Stroke: Enhance
-SKILL_20150317_002486	Increases the damage of [Cartar Stroke] per attribute level.
+SKILL_20150317_002486	Augmente les dégâts de [Cartar Stroke] par niveau de compétence.
 SKILL_20150317_002487	Crown: Enhance
-SKILL_20150317_002488	Increases the damage of [Crown] per attribute level.
+SKILL_20150317_002488	Augmente les dégâts de [Crown] par niveau de compétence.
 SKILL_20150317_002489	Wagon Wheel: Enhance
-SKILL_20150317_002490	Increases the damage of [Wagon Wheel] per attribute level.
+SKILL_20150317_002490	Augmente les dégâts de [Wagon Wheel] par niveau de compétence.
 SKILL_20150317_002491	Moulinet: Enhance
-SKILL_20150317_002492	Increases the damage of [Moulinet] per attribute level.
+SKILL_20150317_002492	Augmente les dégâts de [Moulinet] par niveau de compétence.
 SKILL_20150317_002493	Multi Shot: Enhance
-SKILL_20150317_002494	Increases the damage of [Multi Shot] per attribute level.
+SKILL_20150317_002494	Augmente les dégâts de [Multi Shot] par niveau de compétence.
 SKILL_20150317_002495	Full Draw: Enhance
-SKILL_20150317_002496	Increases the damage of [Full Draw] per attribute level.
+SKILL_20150317_002496	Augmente les dégâts de [Full Draw] par niveau de compétence.
 SKILL_20150317_002497	Oblique Shot: Enhance
-SKILL_20150317_002498	Increases the damage of [Oblique Shot] per attribute level.
+SKILL_20150317_002498	Augmente les dégâts de [Oblique Shot] par niveau de compétence.
 SKILL_20150317_002499	Barrage: Enhance
-SKILL_20150317_002500	Increases the damage of [Barrage] per attribute level.
+SKILL_20150317_002500	Augmente les dégâts de [Barrage] par niveau de compétence.
 SKILL_20150317_002501	High Anchoring: Enhance
-SKILL_20150317_002502	Increases the damage of [High Anchoring] per attribute level.
+SKILL_20150317_002502	Augmente les dégâts de [High Anchoring] par niveau de compétence.
 SKILL_20150317_002503	Bounce Shot: Enhance
-SKILL_20150317_002504	Increases the damage of [Bounce Shot] per attribute level.
+SKILL_20150317_002504	Augmente les dégâts de [Bounce Shot] par niveau de compétence.
 SKILL_20150317_002505	Scatter Caltrops: Enhance
-SKILL_20150317_002506	Increases the damage of [Scatter Caltrops] per attribute level.
+SKILL_20150317_002506	Augmente les dégâts de [Scatter Caltrops] par niveau de compétence.
 SKILL_20150317_002507	Stone Shot: Enhance
-SKILL_20150317_002508	Increases the damage of [Stone Shot] per attribute level.
+SKILL_20150317_002508	Augmente les dégâts de [Stone Shot] par niveau de compétence.
 SKILL_20150317_002509	Rapid Fire: Enhance
-SKILL_20150317_002510	Increases the damage of [Rapid Fire] per attribute level.
+SKILL_20150317_002510	Augmente les dégâts de [Rapid Fire] par niveau de compétence.
 SKILL_20150317_002511	Energy Bolt: Enhance
-SKILL_20150317_002512	Increases the damage of [Energy Bolt] per attribute level.
+SKILL_20150317_002512	Augmente les dégâts de [Energy Bolt] par niveau de compétence.
 SKILL_20150317_002513	Magic Missile: Enhance
-SKILL_20150317_002514	Increases the damage of [Magic Missile] per attribute level.
+SKILL_20150317_002514	Augmente les dégâts de [Magic Missile] par niveau de compétence.
 SKILL_20150317_002515	Earthquake: Enhance
-SKILL_20150317_002516	Increases the damage of [Earthquake] per attribute level.
+SKILL_20150317_002516	Augmente les dégâts de [Earthquake] par niveau de compétence.
 SKILL_20150317_002517	Fireball: Enhance
-SKILL_20150317_002518	Increases the damage of [Fireball] per attribute level.
+SKILL_20150317_002518	Augmente les dégâts de [Fireball] par niveau de compétence.
 SKILL_20150317_002519	Fire Wall: Enhance
-SKILL_20150317_002520	Increases the damage of [Fire Wall] per attribute level.
+SKILL_20150317_002520	Augmente les dégâts de [Fire Wall] par niveau de compétence.
 SKILL_20150317_002521	Flare: Enhance
-SKILL_20150317_002522	Increases the damage of [Flare] per attribute level.
+SKILL_20150317_002522	Augmente les dégâts de [Flare] par niveau de compétence.
 SKILL_20150317_002523	Hell Breath: Enhance
-SKILL_20150317_002524	Increases the damage of [Hell Breath] per attribute level.
+SKILL_20150317_002524	Augmente les dégâts de [Hell Breath] par niveau de compétence.
 SKILL_20150317_002525	Fire Pillar: Enhance
-SKILL_20150317_002526	Increases the damage of [Fire Pillar] per attribute level.
+SKILL_20150317_002526	Augmente les dégâts de [Fire Pillar] par niveau de compétence.
 SKILL_20150317_002527	Ice Bolt: Enhance
-SKILL_20150317_002528	Increases the damage of [Ice Bolt] per attribute level.
+SKILL_20150317_002528	Augmente les dégâts de [Ice Bolt] par niveau de compétence.
 SKILL_20150317_002529	Ice Pike: Enhance
-SKILL_20150317_002530	Increases the damage of [Ice Pike] per attribute level.
+SKILL_20150317_002530	Augmente les dégâts de [Ice Pike] par niveau de compétence.
 SKILL_20150317_002531	Ice Blast: Enhance
-SKILL_20150317_002532	Increases the damage of [Ice Blast] per attribute level.
+SKILL_20150317_002532	Augmente les dégâts de [Ice Blast] par niveau de compétence.
 SKILL_20150317_002533	Cure: Enhance
-SKILL_20150317_002534	Increases the damage of [Cure] per attribute level.
+SKILL_20150317_002534	Augmente les dégâts de [Cure] par niveau de compétence.
 SKILL_20150317_002535	Heal: Enhance
-SKILL_20150317_002536	Increases the damage and healing of [Heal] per attribute level.
+SKILL_20150317_002536	Increases the damage and healing of [Heal] par niveau de compétence.
 SKILL_20150317_002537	Zaibas: Enhance
-SKILL_20150317_002538	Increases the damage of [Zaibas] per attribute level.
+SKILL_20150317_002538	Augmente les dégâts de [Zaibas] par niveau de compétence.
 SKILL_20150317_002539	Stabbing: Enhance
-SKILL_20150317_002540	Increases the damage of [Stabbing] per attribute level.
+SKILL_20150317_002540	Augmente les dégâts de [Stabbing] par niveau de compétence.
 SKILL_20150317_002541	Long Stride: Enhance
-SKILL_20150317_002542	Increases the damage of [Long Stride] per attribute level.
+SKILL_20150317_002542	Augmente les dégâts de [Long Stride] par niveau de compétence.
 SKILL_20150317_002543	Synchro Thrusting: Enhance
-SKILL_20150317_002544	Increases the damage of [Synchro Thrusting] per attribute level.
+SKILL_20150317_002544	Augmente les dégâts de [Synchro Thrusting] par niveau de compétence.
 SKILL_20150317_002545	Pierce: Enhance
-SKILL_20150317_002546	Increases the damage of [Pierce] per attribute level.
+SKILL_20150317_002546	Augmente les dégâts de [Pierce] par niveau de compétence.
 SKILL_20150317_002547	Telekinesis: Enhance
-SKILL_20150317_002548	Increases the damage of [Telekinesis] per attribute level.
+SKILL_20150317_002548	Augmente les dégâts de [Telekinesis] par niveau de compétence.
 SKILL_20150317_002549	Psychic Pressure: Enhance
-SKILL_20150317_002550	Increases the damage of [Psychic Pressure] per attribute level.
+SKILL_20150317_002550	Augmente les dégâts de [Psychic Pressure] par niveau de compétence.
 SKILL_20150317_002551	Magnetic Force: Enhance
-SKILL_20150317_002552	Increases the damage of [Magnetic Force] per attribute level.
+SKILL_20150317_002552	Augmente les dégâts de [Magnetic Force] par niveau de compétence.
 SKILL_20150317_002553	Aspersion: Enhance
-SKILL_20150317_002554	Increases the damage of [Aspersion] per attribute level.
+SKILL_20150317_002554	Augmente les dégâts de [Aspersion] par niveau de compétence.
 SKILL_20150317_002555	Broom Trap: Enhance
-SKILL_20150317_002556	Increases the damage of [Broom Trap] per attribute level.
+SKILL_20150317_002556	Augmente les dégâts de [Broom Trap] par niveau de compétence.
 SKILL_20150317_002557	Claymore: Enhance
-SKILL_20150317_002558	Increases the damage of [Claymore] per attribute level.
+SKILL_20150317_002558	Augmente les dégâts de [Claymore] par niveau de compétence.
 SKILL_20150317_002559	Punji Stake: Enhance
-SKILL_20150317_002560	Increases the damage of [Punji Stake] per attribute level.
+SKILL_20150317_002560	Augmente les dégâts de [Punji Stake] par niveau de compétence.
 SKILL_20150317_002561	Detonate Traps: Enhance
-SKILL_20150317_002562	Increases the damage of [Detonate Traps] per attribute level.
+SKILL_20150317_002562	Augmente les dégâts de [Detonate Traps] par niveau de compétence.
 SKILL_20150317_002563	Gung Ho: Enhance
-SKILL_20150317_002564	Increases the physical attack, while defense decreases of [Gung Ho] per attribute level.
+SKILL_20150317_002564	Augmente les attaques physiques et diminue la défense de [Gung Ho] par niveau de compétence.
 SKILL_20150317_002565	Concentrate: Enhance
-SKILL_20150317_002566	Increases the additional damage of [Concentrate] per attribute level.
+SKILL_20150317_002566	Augmente les dégâts supplémentaires de [Concentrate] par niveau de compétence.
 SKILL_20150317_002567	Restrain: Enhance
-SKILL_20150317_002568	Increases the physical attack, while your maximum HP decreases of [Restrain] per attribute level.
+SKILL_20150317_002568	Augmente les attaques physiques et diminue les HP maximums de [Restrain] par niveau de compétence.
 SKILL_20150317_002569	Guardian: Enhance
-SKILL_20150317_002570	Increases the defense, while physical attack decreases of [Guardian] per attribute level.
+SKILL_20150317_002570	Augmente la défense et diminue les attaques physiques de [Guardian] par niveau de compétence.
 SKILL_20150317_002571	Effigy: Enhance
-SKILL_20150317_002572	Increases the damage of [Effigy] per attribute level.
+SKILL_20150317_002572	Augmente les dégâts de [Effigy] par niveau de compétence.
 SKILL_20150317_002573	Damballa: Enhance
-SKILL_20150317_002574	Increases the damage of [Damballa] per attribute level.
+SKILL_20150317_002574	Augmente les dégâts de [Damballa] par niveau de compétence.
 SKILL_20150317_002575	Carve Attack: Enhance
-SKILL_20150317_002576	Increases the damage of [Carve] per attribute level. Increases additional damage against plant-type enemies.
+SKILL_20150317_002576	Augmente les dégâts de [Carve] par niveau de compétence. Augmente les dégâts additionnels contre les ennemi de type Plant.
 SKILL_20150317_002577	Carve Owl: Enhance
-SKILL_20150317_002578	Increases the damage of [Carve Owl] per attribute level.
+SKILL_20150317_002578	Augmente les dégâts de [Carve Owl] par niveau de compétence.
 SKILL_20150317_002579	Cross Guard: Enhance
-SKILL_20150317_002580	Increases the defense of [Cross Guard] per attribute level.
+SKILL_20150317_002580	Augmente la défense de [Cross Guard] par niveau de compétence.
 SKILL_20150317_002581	Enchant Fire: Enhance
-SKILL_20150317_002582	Increases the damage on Fire property of [Enchant Fire] per attribute level.
+SKILL_20150317_002582	Augmente les dégâts de Feu de [Enchant Fire] par niveau de compétence.
 SKILL_20150317_002583	Kneeling Shot: Enhance
-SKILL_20150317_002584	Increases the physical attack of [Kneeling Shot] per attribute level.
+SKILL_20150317_002584	Augmente les attaques physiques de [Kneeling Shot] par niveau de compétence.
 SKILL_20150317_002585	Steady Aim: Enhance
-SKILL_20150317_002586	Increases the additional damage of [Steady Aim] per attribute level.
+SKILL_20150317_002586	Augmente les dégâts supplémentaires de [Steady Aim] par niveau de compétence.
 SKILL_20150317_002587	Sacrament: Enhance
-SKILL_20150317_002588	Increases the Holy property attack of [Sacrament] per attribute level.
+SKILL_20150317_002588	Augmente les dégâts de Holy de [Sacrament] par niveau de compétence.
 SKILL_20150317_002589	Bash: Enhance 2
-SKILL_20150317_002590	Enhanced the damage of [Bash] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002590	Augmente les dégâts de [Bash] de Swordsman 2e Circle standard. 
 SKILL_20150317_002591	Bash: Enhance 3
-SKILL_20150317_002592	Enhanced the damage of [Bash] to Swordsman's 3rd Circle standards. 
+SKILL_20150317_002592	Augmente les dégâts de [Bash] de Swordsman 3e Circle standard. 
 SKILL_20150317_002593	Thrust: Enhance 2
-SKILL_20150317_002594	Enhanced the damage of [Thrust] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002594	Augmente les dégâts de [Thrust] de Swordsman 2e Circle standard. 
 SKILL_20150317_002595	Thrust: Enhance 3
-SKILL_20150317_002596	Enhanced the damage of [Thrust] to Swordsman's 3rd Circle standards. 
+SKILL_20150317_002596	Augmente les dégâts de [Thrust] de Swordsman 3e Circle standard. 
 SKILL_20150317_002597	Gung Ho: Enhance 2
-SKILL_20150317_002598	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 2nd Circle standards. (Defense decrease effect also increases.)
+SKILL_20150317_002598	Augmente les attaques physiques de [Gung Ho] de Swordsman 2e Circle standard. (L'effet de diminution de la défense est aussi augmenté)
 SKILL_20150317_002599	Gung Ho: Enhance 3
-SKILL_20150317_002600	Enhanced the physical attack increase effect of [Gung Ho] to Swordsman's 3rd Circle standards. (Defense decrease effect also increases.)
+SKILL_20150317_002600	Augmente les attaques physiques de [Gung Ho] de Swordsman 3e Circle standard. (L'effet de diminution de la défense est aussi augmenté)
 SKILL_20150317_002601	Concentrate: Enhance 2
-SKILL_20150317_002602	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 2nd Circle standards. 
+SKILL_20150317_002602	Augmente les dégâts supplémentaires de [Concentrate] de Swordsman 2e Circle standard.
 SKILL_20150317_002603	Concentrate: Enhance 3
-SKILL_20150317_002604	Enhanced the additional damage increase effect of [Concentrate] to Swordsman's 3rd Circle standards.  
+SKILL_20150317_002604	Augmente les dégâts supplémentaires de [Concentrate] de Swordsman 3e Circle standard.
 SKILL_20150317_002605	Restrain: Enhance 2
-SKILL_20150317_002606	Enhanced the physical attack of [Restrain] to Swordsman's 3rd Circle standards. (Maximum HP decrease effect also decreases.)
+SKILL_20150317_002606	Augmente les attaques physiques de [Restrain] de Swordsman 3e Circle standard. (L'effet de diminution des HP maximum est aussi augmenté)
 SKILL_20150317_002607	Lethargy: Enhance
-SKILL_20150317_002608	Increases the damage debuff effect of [Lethargy] per attribute level standards.
+SKILL_20150317_002608	Augmente l'effet de debuff de [Lethargy] par niveau de compétence.
 SKILL_20150317_002609	Energy Bolt: Enhance 2
 SKILL_20150317_002610	Enhanced the damage of [Energy Bolt] to the Wizard's 2nd Circle standards.
 SKILL_20150317_002611	Energy Bolt: Enhance 3
@@ -2681,7 +2681,7 @@ SKILL_20150317_002680	Enhanced the damage of [Ice Blast] to Cryomancer's 2nd Cir
 SKILL_20150317_002681	Ice Blast: Enhance 3
 SKILL_20150317_002682	Enhanced the damage of [Ice Blast] to Cryomancer's 3rd Circle standards.
 SKILL_20150317_002683	Shield Lob: Enhance
-SKILL_20150317_002684	Increases the damage of [Shield Lob] per attribute level.
+SKILL_20150317_002684	Augmente les dégâts de [Shield Lob] per attribute level.
 SKILL_20150317_002685	Rim Blow: Enhance 2
 SKILL_20150317_002686	Enhanced the damage of [Rim Blow] to Peltasta's 2nd Circle standards.
 SKILL_20150317_002687	Rim Blow: Enhance 3
@@ -2840,61 +2840,61 @@ SKILL_20150317_002839	Enhanced the HP recovery increase effect of [Aukuras] to K
 SKILL_20150317_002840	Aukuras: Enhance 3
 SKILL_20150317_002841	Enhanced the HP recovery increase effect [Aukuras] to Krivis' 3rd Circle standards.
 SKILL_20150317_002842	Shield Charge: Enhance
-SKILL_20150317_002843	Increases the damage of [Shield Charge] per attribute level.
+SKILL_20150317_002843	Augmente les dégâts de [Shield Charge] per attribute level.
 SKILL_20150317_002844	Shield Charge: Enhance 2
 SKILL_20150317_002845	Enhanced the damage of [Shield Charge] to Rodelero's 2nd Circle standards.
 SKILL_20150317_002846	Shield Charge: Enhance 3
 SKILL_20150317_002847	Enhanced the damage of [Shield Charge] to Rodelero's 3rd Circle standards.
 SKILL_20150317_002848	Montano: Enhance
-SKILL_20150317_002849	Increases the damage of [Montano] per attribute level.
+SKILL_20150317_002849	Augmente les dégâts de [Montano] per attribute level.
 SKILL_20150317_002850	Montano: Enhance 2
 SKILL_20150317_002851	Enhanced the damage of [Montano] to Rodelero's 2nd Circle standards.
 SKILL_20150317_002852	Montano: Enhance 3
 SKILL_20150317_002853	Enhanced the damage of [Montano] to Rodelero's 3rd Circle standards.
 SKILL_20150317_002854	Targe Smash: Enhance
-SKILL_20150317_002855	Increases the damage of [Targe Smash] per attribute level.
+SKILL_20150317_002855	Augmente les dégâts de [Targe Smash] per attribute level.
 SKILL_20150317_002856	Targe Smash: Enhance 2
 SKILL_20150317_002857	Enhanced the damage of [Targe Smash] to Rodelero's 2nd Circle standards.
 SKILL_20150317_002858	Targe Smash: Enhance 3
 SKILL_20150317_002859	Enhanced the damage of [Targe Smash] to Rodelero's 3rd Circle standards.
 SKILL_20150317_002860	Shield Push: Enhance
-SKILL_20150317_002861	Increases the damage of [Shield Push] per attribute level.
+SKILL_20150317_002861	Augmente les dégâts de [Shield Push] per attribute level.
 SKILL_20150317_002862	Shield Push: Enhance 2
 SKILL_20150317_002863	Enhanced the damage of [Shield Push]  to Rodelero's 2nd Circle standards.
 SKILL_20150317_002864	Shield Push: Enhance 3
 SKILL_20150317_002865	Enhanced the damage of [Shield Push] to Rodelero's 3rd Circle standards.
 SKILL_20150317_002866	Rush: Enhance
-SKILL_20150317_002867	Increases the damage of [Rush] per attribute level.
+SKILL_20150317_002867	Augmente les dégâts de [Rush] per attribute level.
 SKILL_20150317_002868	Rush: Enhance 2
 SKILL_20150317_002869	Enhanced the damage of [Rush] to Cataphract's 2nd Circle standards.
 SKILL_20150317_002870	Rush: Enhance 3
 SKILL_20150317_002871	Enhanced the damage of [Rush] to Cataphract's 3rd Circle standards.
 SKILL_20150317_002872	Impaler: Enhance
-SKILL_20150317_002873	Increases the damage of [Impaler] per attribute level.
+SKILL_20150317_002873	Augmente les dégâts de [Impaler] per attribute level.
 SKILL_20150317_002874	Impaler: Enhance 2
 SKILL_20150317_002875	Enhanced the damage of [Impaler] to Cataphract's 2nd Circle standards.
 SKILL_20150317_002876	Impaler: Enhance 3
 SKILL_20150317_002877	Enhanced the damage of [Impaler] to Cataphract's 3rd Circle standards.
 SKILL_20150317_002878	Meteor: Enhance
-SKILL_20150317_002879	Increases the damage of [Meteor] per attribute level.
+SKILL_20150317_002879	Augmente les dégâts de [Meteor] per attribute level.
 SKILL_20150317_002880	Meteor: Enhance 2
 SKILL_20150317_002881	Enhanced the damage of [Meteor] to Elementalist's 2nd Circle standards.
 SKILL_20150317_002882	Meteor: Enhance 3
 SKILL_20150317_002883	Enhanced the damage of [Meteor] to Elementalist's 3rd Circle standards. 
 SKILL_20150317_002884	Prominence: Enhance
-SKILL_20150317_002885	Increases the damage of [Prominence] per attribute level.
+SKILL_20150317_002885	Augmente les dégâts de [Prominence] per attribute level.
 SKILL_20150317_002886	Prominence: Enhance 2
 SKILL_20150317_002887	Enhanced the damage of [Prominence] to Elementalist's 2nd Circle standards.
 SKILL_20150317_002888	Prominence: Enhance 3
 SKILL_20150317_002889	Enhanced the damage of [Prominence] to Elementalist's 3rd Circle standards. 
 SKILL_20150317_002890	Hail: Enhance
-SKILL_20150317_002891	Increases the damage of [Hail] per attribute level.
+SKILL_20150317_002891	Augmente les dégâts de [Hail] per attribute level.
 SKILL_20150317_002892	Hail: Enhance 2
 SKILL_20150317_002893	Enhanced the damage of [Hail] to Elementalist's 2nd Circle standards.
 SKILL_20150317_002894	Hail: Enhance 3
 SKILL_20150317_002895	Enhanced the damage of [Hail] to Elementalist's 3rd Circle standards.
 SKILL_20150317_002896	Electrocute: Enhance
-SKILL_20150317_002897	Increases the damage of [Electrocute] per attribute level.
+SKILL_20150317_002897	Augmente les dégâts de [Electrocute] per attribute level.
 SKILL_20150317_002898	Electrocute: Enhance 2
 SKILL_20150317_002899	Enhanced the damage of [Electrocute] to Elementalist's 2nd Circle standards.
 SKILL_20150317_002900	Electrocute: Enhance 3
@@ -2906,63 +2906,63 @@ SKILL_20150317_002905	Enhanced the attack increase effect of [Swell Right Arm] t
 SKILL_20150317_002906	Swell Right Arm: Enhance 3
 SKILL_20150317_002907	Enhanced the attack increase effect of [Swell Right Arm] to Thaumaturge's 3rd Circle standards.
 SKILL_20150317_002908	Arrow Sprinkle: Damage
-SKILL_20150317_002909	Increases the damage of [Arrow Sprinkle] per attribute level.
+SKILL_20150317_002909	Augmente les dégâts de [Arrow Sprinkle] per attribute level.
 SKILL_20150317_002910	Arrow Sprinkle: Enhance 3
 SKILL_20150317_002911	Enhanced the damage of [Arrow Sprinkle] to Ranger's 3rd Circle standards.
 SKILL_20150317_002912	Critical Shot: Enhance
-SKILL_20150317_002913	Increases the damage of [Critical Shot] per attribute level.
+SKILL_20150317_002913	Augmente les dégâts de [Critical Shot] per attribute level.
 SKILL_20150317_002914	Critical Shot: Enhance 2
 SKILL_20150317_002915	Enhanced the damage of [Critical Shot] to Ranger's 2nd Circle standards.
 SKILL_20150317_002916	Critical Shot: Enhance 3
 SKILL_20150317_002917	Enhanced the damage of [Critical Shot] to Ranger's 3rd Circle standards.
 SKILL_20150317_002918	Time Bomb Arrow: Enhance
-SKILL_20150317_002919	Increases the damage of [Time Bomb Arrow] per attribute level.
+SKILL_20150317_002919	Augmente les dégâts de [Time Bomb Arrow] per attribute level.
 SKILL_20150317_002920	Time Bomb Arrow: Enhance 2
 SKILL_20150317_002921	Enhanced the damage of [Time Spring Arrow] to Ranger's 3rd Circle standards.
 SKILL_20150317_002922	Ballista: Enhance
-SKILL_20150317_002923	Increases the damage of [Ballista] per attribute level.
+SKILL_20150317_002923	Augmente les dégâts de [Ballista] per attribute level.
 SKILL_20150317_002924	Ballista: Enhance 2
 SKILL_20150317_002925	Enhanced the damage of [Ballista] to Sapper's 2nd Circle standards.
 SKILL_20150317_002926	Ballista: Enhance 3
 SKILL_20150317_002927	Enhanced the damage of [Ballista] to Sapper's 3rd Circle standards.
 SKILL_20150317_002928	Needle Blow: Enhance
-SKILL_20150317_002929	Increases the damage of [Needle Blow] per attribute level.
+SKILL_20150317_002929	Augmente les dégâts de [Needle Blow] per attribute level.
 SKILL_20150317_002930	Needle Blow: Enhance 2
 SKILL_20150317_002931	Enhanced the damage of [Needle Blow] to Wugushi's 2nd Circle standards.
 SKILL_20150317_002932	Needle Blow: Enhance 3
 SKILL_20150317_002933	Enhanced the damage of [Needle Blow] to Wugushi's 3rd Circle standards.
 SKILL_20150317_002934	Wugong Gu: Enhance
-SKILL_20150317_002935	Increases the damage of [Wugong Gu] per attribute level.
+SKILL_20150317_002935	Augmente les dégâts de [Wugong Gu] per attribute level.
 SKILL_20150317_002936	Wugong Gu: Enhance 2
 SKILL_20150317_002937	Enhanced the damage of [Wugong Gu] to Wugushi's 2nd Circle standards.
 SKILL_20150317_002938	Wugong Gu: Enhance 3
 SKILL_20150317_002939	Enhanced the damage of [Wugong Gu] to Wugushi's 3rd Circle standards.
 SKILL_20150317_002940	Throw Gu Pot: Enhance
-SKILL_20150317_002941	Increases the damage of [Throw Gu Pot] per attribute level.
+SKILL_20150317_002941	Augmente les dégâts de [Throw Gu Pot] per attribute level.
 SKILL_20150317_002942	Throw Gu Pot: Enhance 
 SKILL_20150317_002943	Enhanced the damage of [Throw Gu Pot] to Wugushi's 2nd Circle standards.
 SKILL_20150317_002944	Throw Gu Pot: Enhance 2
 SKILL_20150317_002945	Enhanced the damage of [Throw Gu Pot] to Wugushi's 3rd Circle standards.
 SKILL_20150317_002946	Flu Flu: Enhance
-SKILL_20150317_002947	Increases the damage of [Flu Flu] per attribute level.
+SKILL_20150317_002947	Augmente les dégâts de [Flu Flu] per attribute level.
 SKILL_20150317_002948	Flu Flu: Enhance 2
 SKILL_20150317_002949	Enhanced the damage of [Flu Flu] to Scout's 2nd Circle standards.
 SKILL_20150317_002950	Flu Flu: Enhance 3
 SKILL_20150317_002951	Enhanced the damage of [Flu Flu] to Scout's 3rd Circle standards.
 SKILL_20150317_002952	Flare Shot: Enhance
-SKILL_20150317_002953	Increases the damage of [Flare Shot] per attribute level.
+SKILL_20150317_002953	Augmente les dégâts de [Flare Shot] per attribute level.
 SKILL_20150317_002954	Flare Shot: Enhance 2
 SKILL_20150317_002955	Enhanced the damage of [Flare Shot] to Scout's 2nd Circle standards.
 SKILL_20150317_002956	Bwa Kayiman: Enhance
-SKILL_20150317_002957	Increases the damage of [Bwa Kayiman] per attribute level.
+SKILL_20150317_002957	Augmente les dégâts de [Bwa Kayiman] per attribute level.
 SKILL_20150317_002958	Bwa Kayiman: Enhance
 SKILL_20150317_002959	Enhanced the damage of [Bwa Kayiman] to Bokor's 2nd Circle standards.
 SKILL_20150317_002960	Bwa Kayiman: Enhance 2
 SKILL_20150317_002961	Enhanced the damage of [Bwa Kayiman] to Bokor's 3rd Circle standards.
 SKILL_20150317_002962	Astral Body Explosion: Enhance
-SKILL_20150317_002963	Increases the damage of [Astral Body Explosion] per attribute level.
+SKILL_20150317_002963	Augmente les dégâts de [Astral Body Explosion] per attribute level.
 SKILL_20150317_002964	Possession: Enhance
-SKILL_20150317_002965	Increases the damage of [Possession] per attribute level.
+SKILL_20150317_002965	Augmente les dégâts de [Possession] per attribute level.
 SKILL_20150317_002966	Possession: Enhance 2
 SKILL_20150317_002967	Enhanced the damage of [Possession] to Sadhu's 3rd Circle standards.
 SKILL_20150317_002968	Body Basic Attack: Enhance
@@ -2978,33 +2978,33 @@ SKILL_20150317_002977	Enhanced the HP recovery increase effect of [Restoration] 
 SKILL_20150317_002978	Restoration: Enhance 3
 SKILL_20150317_002979	Enhanced the HP recovery increase effect [Restoration] to Paladin's 3rd Circle standards.
 SKILL_20150317_002980	Smite: Enhance
-SKILL_20150317_002981	Increases the damage of [Smite] per attribute level.
+SKILL_20150317_002981	Augmente les dégâts de [Smite] per attribute level.
 SKILL_20150317_002982	Smite: Enhance 2
 SKILL_20150317_002983	Enhanced the damage of [Smite] to Paladin's 2nd Circle standards.
 SKILL_20150317_002984	Smite: Enhance 3
 SKILL_20150317_002985	Enhanced the damage of [Smite] to Paladin's 3rd Circle standards.
 SKILL_20150317_002986	Embowel: Enhance
-SKILL_20150317_002987	Increases the damage of [Embowel] per attribute level.
+SKILL_20150317_002987	Augmente les dégâts de [Embowel] per attribute level.
 SKILL_20150317_002988	Embowel: Enhance 2
 SKILL_20150317_002989	Enhanced the damage of [Embowel] to Barbarian's 2nd Circle standards.
 SKILL_20150317_002990	Embowel: Enhance 3
 SKILL_20150317_002991	Enhanced the damage of [Embowel] to Barbarian's 3rd Circle standards.
 SKILL_20150317_002992	Stomping Kick: Enhance
-SKILL_20150317_002993	Increases the damage of [Stomping Kick] per attribute level.
+SKILL_20150317_002993	Augmente les dégâts de [Stomping Kick] per attribute level.
 SKILL_20150317_002994	Earth Wave: Enhance
-SKILL_20150317_002995	Increases the damage of [Earth Wave] increases per attribute level.
+SKILL_20150317_002995	Augmente les dégâts de [Earth Wave] increases per attribute level.
 SKILL_20150317_002996	Earth Wave: Enhance 2
 SKILL_20150317_002997	Enhanced the damage of [Earth Wave] to Cataphract's 2nd Circle standards.
 SKILL_20150317_002998	Earth Wave: Enhance 3
 SKILL_20150317_002999	Enhanced the damage of [Earth Wave] to Cataphract's 3rd Circle standards.
 SKILL_20150317_003000	Steed Charge: Enhance
-SKILL_20150317_003001	Increases the damage of [Steed Charge] per attribute level.
+SKILL_20150317_003001	Augmente les dégâts de [Steed Charge] per attribute level.
 SKILL_20150317_003002	Steed Charge: Enhance 2
 SKILL_20150317_003003	Enhanced the damage of [Steed Charge] to Cataphract's 2nd Circle standards.
 SKILL_20150317_003004	Steed Charge: Enhance 3
 SKILL_20150317_003005	Enhanced the damage of [Steed Charge] to Cataphract's 3rd Circle standards.
 SKILL_20150317_003006	Doom Spike: Enhance
-SKILL_20150317_003007	Increases the damage of [Doom Spike] per attribute level.
+SKILL_20150317_003007	Augmente les dégâts de [Doom Spike] per attribute level.
 SKILL_20150317_003008	Doom Spike: Enhance 2
 SKILL_20150317_003009	Enhanced the damage of [Doom Spike] to Cataphract's 2nd Circle standards.
 SKILL_20150317_003010	Doom Spike: Enhance 2
@@ -3107,7 +3107,7 @@ SKILL_20150323_003106	Enhanced the damage of [Hail] to Elementalist's 3rd Circle
 SKILL_20150323_003107	Enhanced the damage of [Electrocute] to Elementalist's 2nd Circle standards.
 SKILL_20150323_003108	Enhanced the damage of [Electrocute] to Elementalist's 3rd Circle standards.
 SKILL_20150323_003109	Swell Left Arm: Enhance
-SKILL_20150323_003110	Increases the Damage of [Swell left Arm] Increase per Attribute level.
+SKILL_20150323_003110	Augmente les dégâts de [Swell left Arm] Increase per Attribute level.
 SKILL_20150323_003111	Swell Left Arm: Enhance 2
 SKILL_20150323_003112	Enhanced the increased attack effect of [Swell Left Arm] to Thaumaturge's 2nd Circle standards.
 SKILL_20150323_003113	Swell Left Arm: Enhance 3
@@ -3493,7 +3493,7 @@ SKILL_20150401_003492	Damage of [Retreat Shot] Increase per Attribute level.
 SKILL_20150401_003493	Exorcise: Enhance
 SKILL_20150401_003494	Damage of [Exorsize] Increase per Attribute level.
 SKILL_20150401_003495	Iron Skin: Enhance
-SKILL_20150401_003496	Increases the damage of [Iron Skin] per attribute level.
+SKILL_20150401_003496	Augmente les dégâts de [Iron Skin] per attribute level.
 SKILL_20150401_003497	Double Punch: Enhance
 SKILL_20150401_003498	Damage of [Double Punch] Increase per Attribute level.
 SKILL_20150401_003499	Double Punch: Enhance 2
@@ -3957,7 +3957,7 @@ SKILL_20150414_003956	Damage of [Teardown] increase per attribute level.
 SKILL_20150414_003957	Teardown: Enhance 2
 SKILL_20150414_003958	Enhanced the damage of [Teardown] to Quarrel Shooter's 3rd Circle standards.
 SKILL_20150414_003959	Running Shot: Enhance
-SKILL_20150414_003960	Increases the damage of [Running Shot] per attribute level.
+SKILL_20150414_003960	Augmente les dégâts de [Running Shot] per attribute level.
 SKILL_20150414_003961	Lachrymator: Additional Damage
 SKILL_20150414_003962	Enemies within rage of [Lachrymator] receives damage every 2 seconds. Damage increases per attribute level.
 SKILL_20150414_003963	Magic Arrow: Enhance
@@ -4414,7 +4414,7 @@ SKILL_20150714_004413	Enemies hit by [Hell Breath] have a 10% chance per attribu
 SKILL_20150714_004414	Decreases the enemy's Fire Resistance by 10% for 5 seconds within the range of [Enchant Fire].
 SKILL_20150714_004415	Increases the character's Fire property attack by 3 per attribute level when equipped with a [Staff].
 SKILL_20150714_004416	Flare: Additional Damage
-SKILL_20150714_004417	Increases the damage of [Flare] by 10 per attribute level to Cloth armor-type enemies. 
+SKILL_20150714_004417	Augmente les dégâts de [Flare] de 10 par niveau de compétence sur les ennemis portant une armure de type [Cloth]. 
 SKILL_20150714_004418	Increases the damage dealt on an enemy with [Ice Bolt] by 1% per attribute level.
 SKILL_20150714_004419	Increases the damage dealt on an enemy with [Ice Spike] by 1% per attribute level.
 SKILL_20150714_004420	Increases the damage dealt on an enemy with [Ice Blast] by 1% per attribute level.
@@ -4427,7 +4427,7 @@ SKILL_20150714_004426	Cryorite can be dropped with a chance of 1% per attribute 
 SKILL_20150714_004427	Subzero Shield: Duration
 SKILL_20150714_004428	Increases the duration of freeze that will be applied from [Subzero Shield] by 1 second per attribute level.
 SKILL_20150714_004429	Ice Blast: Additional Damage
-SKILL_20150714_004430	Increases the damage of [Ice Blast] by 10 per attribute level when attacking Leather armor-type enemies.
+SKILL_20150714_004430	Augmente les dégâts de [Ice Blast] de 10 par niveau de compétence sur les ennemis portant une armure de type [Leather].
 SKILL_20150714_004431	Cryomancer: Freeze Speciality
 SKILL_20150714_004432	Enemies frozen by a Cryomancer will receive 10% additional damage from Lightning property attacks per attribute level.
 SKILL_20150714_004433	Increases the damage dealt on an enemy with [Telekinesis] by 1% per attribute level.
