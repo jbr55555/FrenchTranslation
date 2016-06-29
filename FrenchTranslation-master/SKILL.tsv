@@ -156,7 +156,7 @@ SKILL_20150317_000155	Zombie Archer skill.
 SKILL_20150317_000156	Wheelchair Zombie Normal attack.
 SKILL_20150317_000157	Wheelchair Zombie skills.
 SKILL_20150317_000158	Wall of Flame
-SKILL_20150317_000159	Crée un Mur de Flamme qui inflige des dégâts aux ennemis.
+SKILL_20150317_000159	Crée un Mur de Flammes qui inflige des dégâts aux ennemis.
 SKILL_20150317_000160	Mine explosion
 SKILL_20150317_000161	Detonate explosive mines.
 SKILL_20150317_000162	Toxic explosion
@@ -176,7 +176,7 @@ SKILL_20150317_000175	Snowstorm
 SKILL_20150317_000176	Meteor Bang
 SKILL_20150317_000177	Normal attack
 SKILL_20150317_000178	Smack Down
-SKILL_20150317_000179	Frappe et inflige des dégats aux ennemis en les repoussant.
+SKILL_20150317_000179	Frappe et inflige des dégâts aux ennemis en les repoussant.
 SKILL_20150317_000180	Missile attack
 SKILL_20150317_000181	AOS turret attack
 SKILL_20150317_000182	[Woodman] attack
@@ -788,7 +788,7 @@ SKILL_20150317_000787	Attaque un ennemi à courte distance.
 SKILL_20150317_000788	Right-hand Bow (Two-handed Bow only)
 SKILL_20150317_000789	Inflige des dégâts à courte distance en faisant tournoyer l'arme.
 SKILL_20150317_000790	Attaque un ennemi avec de la magie à longue distance.
-SKILL_20150317_000791	Attaque un ennemi à courte distance(Warrior's Two-handed Sword only)
+SKILL_20150317_000791	Attaque un ennemi à courte distance(Warrior's Two-handed Sword seulement)
 SKILL_20150317_000792	Attaque un ennemi magique à longue distance.(Two-handed Staff)
 SKILL_20150317_000793	Dagger Pierce
 SKILL_20150317_000794	Attaque un ennemi à courte distance. La cible est étourdie lorsqu'elle est frappée un certain nombre de fois.
@@ -918,7 +918,7 @@ SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
 SKILL_20150317_000920	Thrust
-SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Perce et repousse un ennemi.
+SKILL_20150317_000921	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Transperce et repousse un ennemi.
 SKILL_20150317_000922	Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
 SKILL_20150317_000924	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Faites tournoyer votre arme pour infliger des dégâts à la cible.
@@ -945,9 +945,9 @@ SKILL_20150317_000944	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Lancez votre 
 SKILL_20150317_000945	High Guard
 SKILL_20150317_000946	Butterfly
 SKILL_20150317_000947	Wagon Wheel
-SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Exécutez un uppercut avec votre arme. Repousse les ennemis.
+SKILL_20150317_000948	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Exécutez un uppercut avec votre arme qui repousse les ennemis.
 SKILL_20150317_000949	Cartar Stroke
-SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Rassemblez votre pouvoir et frapper le sol avec votre arme pour attaquer la cible.
+SKILL_20150317_000950	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Concentrez votre puissance et frapper le sol avec votre arme pour attaquer la cible.
 SKILL_20150317_000951	Attack #{SkillAtkAdd}#{nl}Cast Time 0.5 seconds{nl}Splash #{SkillSR}#
 SKILL_20150317_000952	Crown
 SKILL_20150317_000953	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Déclenchez une puissante attaque en abattant votre arme sur la tête des ennemis. Diminue temporairement l'INT et la SPR des ennemis.
@@ -960,7 +960,7 @@ SKILL_20150317_000959	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Lancez cinq att
 SKILL_20150317_000960	Stabbing
 SKILL_20150317_000961	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Attaquez un ennemi plusieurs fois avec une lance.
 SKILL_20150317_000962	Pierce
-SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflige des dégâts à un ennemi avec un coup puissant.{nl} Un bonus d'attaque continue sera applicable en fonction de la taille de l'ennemi.
+SKILL_20150317_000963	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl} Inflige des dégâts à un ennemi avec un coup puissant.{nl} Un bonus d'attaque continu sera applicable en fonction de la taille de l'ennemi.
 SKILL_20150317_000964	Attack #{SkillAtkAdd}#{nl}Medium target 2 attacks{nl}Large target 3 attacks
 SKILL_20150317_000965	Finestra
 SKILL_20150317_000966	Bascule dans la pose de la Window.{nl} Augmente Critical Rate, mais diminue Evasion.
@@ -975,7 +975,7 @@ SKILL_20150317_000974	Shield Charge
 SKILL_20150317_000975	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl} Courrez en levant votre bouclier. La première cible touchée par le bouclier tombe à terre.
 SKILL_20150317_000976	Attack #{SkillAtkAdd}#{nl}Max. Duration 10 seconds{nl}Consume STA
 SKILL_20150317_000977	Montano
-SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Utilisez une puissant attaque sur la partie basse de la cible.
+SKILL_20150317_000978	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl} Utilisez une puissante attaque sur la partie basse de la cible.
 SKILL_20150317_000979	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Stun]{/}{/} Duration 7 seconds
 SKILL_20150317_000980	Targe Smash
 SKILL_20150317_000981	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl} Inflige des dégâts en frappant violemment la cible avec votre bouclier. Très forte chance d'infliger le statut Darkness à la cible.
@@ -986,23 +986,23 @@ SKILL_20150317_000985	Attack #{SkillAtkAdd}#{nl}{#339999}{ol}[Unbalanced]{/}{/} 
 SKILL_20150317_000986	Impaler
 SKILL_20150317_000987	{#DD5500}{ol}[Pierce]{/}{/}{nl}Empale un monstre de petite taille avec une lance. L'utilisation de cette compétence sur un monstre embroché inflige des dégâts.
 SKILL_20150317_000988	Earth Wave
-SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl}Rassemblez votre pouvoir et frapper le sol avec votre arme pour attaquer l'ennemi.
+SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl}Concentrez votre puissance et frappez le sol avec votre arme pour attaquer l'ennemi.
 SKILL_20150317_000990	Trot
 SKILL_20150317_000991	Augmente votre vitesse de mouvement.
 SKILL_20150317_000992	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000993	Steed Charge
 SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Effectuez une puissante charge pour repousser la cible.
 SKILL_20150317_000995	Doom Spike
-SKILL_20150317_000996	{#DDD300}{ol}[Pierce]{/}{/}{nl}Rassemblez votre pouvoir pour lâcher un coup puissant sur un ennemi.
+SKILL_20150317_000996	{#DDD300}{ol}[Pierce]{/}{/}{nl}Concentrez votre puissance pour lâcher un coup puissant sur un ennemi.
 SKILL_20150317_000997	Rush
 SKILL_20150317_000998	{#DD5500}{ol}[Slash]{/}{/}{nl} Faites tourner votre lance en permanence au-dessus de votre tête pour attaquer un ennemi.
 SKILL_20150317_000999	Attack: #{SkillAtkAdd}#{nl}Maximum Duration: 10 seconds{nl}Splash: #{SkillSR}#
 SKILL_20150317_001000	Dragging Death
-SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Attaque en permanence les ennemis en face.
+SKILL_20150317_001001	{#DDD300}{ol}[Pierce]{/}{/}{nl}Attaque en permanence les ennemis devant vous.
 SKILL_20150317_001002	Embowel
 SKILL_20150317_001003	{#DD5500}{ol}[Pierce]{/}{/}{nl} Relâchez un coup puissant sur un ennemi puis repoussez le au loin.
 SKILL_20150317_001004	Frenzy
-SKILL_20150317_001005	Augmente votre attaque lorsque après plusieurs attaques basiques consécutives sur une cible.
+SKILL_20150317_001005	Augmente votre attaque après plusieurs attaques basiques consécutives sur une cible.
 SKILL_20150317_001006	Attack: +#{CaptionRatio}#{nl}Maximum Stacks: #{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001007	Aggressor
 SKILL_20150317_001008	Vous êtes sûr de toucher votre cible, mais votre Critical Rate et Critical Evasion diminue.
@@ -1063,7 +1063,7 @@ SKILL_20150317_001062	Increase Knockdown Power
 SKILL_20150317_001063	Utiliser une chaîne pour capturer puis rejeter les ennemis proches.
 SKILL_20150317_001064	Curse
 SKILL_20150317_001065	Energy Bolt
-SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attaque une cible avec une puissane énergie.
+SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attaque une cible avec une puissante énergie.
 SKILL_20150317_001067	Attack #{SkillAtkAdd}#{nl}Cast Time 1 second{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
 SKILL_20150317_001069	Rend la cible léthargique.
@@ -1086,7 +1086,7 @@ SKILL_20150317_001085	Quick Cast
 SKILL_20150317_001086	Réduit le temps de préparation des comptétences.
 SKILL_20150317_001087	Cast Time: -#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001088	Fireball
-SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Invoque une boule de feu devant vous. Vous pouvez la pousser en tapant dessus avec épée.
+SKILL_20150317_001089	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Invoque une boule de feu devant vous. Vous pouvez la pousser en tapant dessus avec une épée.
 SKILL_20150317_001090	Attack: #{SkillAtkAdd}#{nl}Attack Count: #{SkillSR}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001091	Fire Wall
 SKILL_20150317_001092	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Crée une barrière de feu qui inflige des dégâts aux ennemis proches.
@@ -1122,10 +1122,10 @@ SKILL_20150317_001121	Frost Pillar
 SKILL_20150317_001122	Invoque un arbre de glace qui attire les ennemis proches et a une chance de les geler.
 SKILL_20150317_001123	Chance to {#339999}{ol}[Freeze]{/}{/}: #{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001124	Psychic Pressure
-SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts continus aux cible face à vous.
+SKILL_20150317_001125	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts continus aux cibles devant vous.
 SKILL_20150317_001126	Attack #{SkillAtkAdd}#{nl}Splash #{CaptionRatio}#{nl}Consume #{CaptionRatio2}#% of SP per second.
 SKILL_20150317_001127	Telekinesis
-SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Captures les cibles en face de vous en utilisant la psychokinésie.{nl}Inflige des dégâts en lançant la cible capturée dans une direction en utilisant les flèches du clavier. 
+SKILL_20150317_001128	{#993399}{ol}[Magic]{/}{/}{nl}Capture un ennemi devant vous en utilisant la psychokinésie.{nl}Inflige des dégâts en lançant la cible capturée dans une direction en utilisant les flèches du clavier. 
 SKILL_20150317_001129	Attack: #{SkillAtkAdd}#{nl}Attack Count: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001130	Swap
 SKILL_20150317_001131	Echange votre position avec celle de l'ennemi.
@@ -1134,7 +1134,7 @@ SKILL_20150317_001133	Teleportation
 SKILL_20150317_001134	Vous téléporte dans un lieu au hasard.
 SKILL_20150317_001135	Maximum Teleport Distance #{CaptionRatio}#
 SKILL_20150317_001136	Magnetic Force
-SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts en dessinant dans la zone ciblée. 
+SKILL_20150317_001137	{#993399}{ol}[Magic]{/}{/}{nl}Inflige des dégâts en attirant la cible dans la zone ciblée. 
 SKILL_20150317_001138	Raise
 SKILL_20150317_001139	Envoie la cible dans les airs.
 SKILL_20150317_001140	Targets: #{CaptionRatio}#{nl}Duration: #{CaptionRatio2}# seconds
@@ -2565,7 +2565,7 @@ SKILL_20150317_002564	Augmente les attaques physiques et diminue la défense de 
 SKILL_20150317_002565	Concentrate: Enhance
 SKILL_20150317_002566	Augmente les dégâts supplémentaires de [Concentrate] par niveau de compétence.
 SKILL_20150317_002567	Restrain: Enhance
-SKILL_20150317_002568	Augmente les attaques physiques et diminue les HP maximums de [Restrain] par niveau de compétence.
+SKILL_20150317_002568	Augmente les attaques physiques et diminue les HP maximum de [Restrain] par niveau de compétence.
 SKILL_20150317_002569	Guardian: Enhance
 SKILL_20150317_002570	Augmente la défense et diminue les attaques physiques de [Guardian] par niveau de compétence.
 SKILL_20150317_002571	Effigy: Enhance
