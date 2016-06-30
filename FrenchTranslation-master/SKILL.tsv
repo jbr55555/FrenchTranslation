@@ -1060,10 +1060,10 @@ SKILL_20150317_001059	Buff Duration: #{CaptionTime}#sec{nl}#Parring Chance: {Cap
 SKILL_20150317_001060	Donnez un coup d'épaule pour repousser les ennemis
 SKILL_20150317_001061	{#CC3300}{ol}[Strike]{/}{/} Attribute{nl} Attack #{SkillFactor}#%+#{SkillAtkAdd}#{nl}Splash #{SkillSR}#{nl} SP Consumed #{SpendSP}#
 SKILL_20150317_001062	Increase Knockdown Power
-SKILL_20150317_001063	Utiliser une chaîne pour capturer puis rejeter les ennemis proches.
+SKILL_20150317_001063	Utilisez une chaîne pour capturer puis rejeter les ennemis proches.
 SKILL_20150317_001064	Curse
 SKILL_20150317_001065	Energy Bolt
-SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attaque une cible avec une puissante énergie.
+SKILL_20150317_001066	{#993399}{ol}[Magic]{/}{/}{nl} Attaque une cible avec une puissante boule d'énergie.
 SKILL_20150317_001067	Attack #{SkillAtkAdd}#{nl}Cast Time 1 second{nl}Splash #{SkillSR}#
 SKILL_20150317_001068	Lethargy
 SKILL_20150317_001069	Rend la cible léthargique.
@@ -1457,77 +1457,77 @@ SKILL_20150317_001456	Aspersion
 SKILL_20150317_001457	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Répand de l'eau bénite pour augmenter la défense des alliés et blesser les ennemis.
 SKILL_20150317_001458	Attack #{SkillAtkAdd}#{nl}Defense +#{CaptionRatio}# {nl}Target 10{nl}Duration #{CaptionRatio2}# seconds{nl}Use 1 Holy water
 SKILL_20150317_001459	Monstrance
-SKILL_20150317_001460	Dexterity of allies is increased and randomly create magic circle that cause evasion and Physical damage of enemies to decrease--.
+SKILL_20150317_001460	Le DEX des alliés est augmentée et un cercle magique qui réduit l'Evasion et les dégâts physiques de l'ennemi est créé au hasard dans la zone.
 SKILL_20150317_001461	Maximum Magic Circles: #{SkillFactor}#{nl}Increases Ally's DEX{nl}Enemy's Evasion and Defense: -#{CaptionRatio}#{nl}Magic Circle Duration: 20 seconds
 SKILL_20150317_001462	Blessing
-SKILL_20150317_001463	Increase the damage of party members' skills.
+SKILL_20150317_001463	Augmene les dégâts des compétences des membres de l'équipe.
 SKILL_20150317_001464	Additional Damage + #{CaptionRatio}# {nl} Attack# {CaptionRatio2} # times{nl} {nl} Duration 30 seconds{nl}Use 1 Holy Powder
 SKILL_20150317_001465	Resurrection
-SKILL_20150317_001466	Revive deceased players.
+SKILL_20150317_001466	Réssuscite un joueur mort.
 SKILL_20150317_001467	Attack: #{SkillAtkAdd}#{nl}Casting Time: #{CaptionTime}# seconds{nl}HP recovery after resurrection: #{CaptionRatio}#%
 SKILL_20150317_001468	Sacrament
-SKILL_20150317_001469	Grant Holy attribute ATK to party member. Additional damage is applied with basic attacks.
+SKILL_20150317_001469	Confère la propriété Holy à l'attaque d'un membre de l'équipe. Les attaques basiques font des dégâts supplémentaires.
 SKILL_20150317_001470	Divine Attributes Attack + #{CaptionRatio}#{nl} Additional Damage + #{CaptionRatio2}#{nl} Duration #{CaptionTime} seconds#{nl}Use 1 Gislotis
 SKILL_20150317_001471	Protection
 SKILL_20150317_001472	Dodola
 SKILL_20150317_001473	Hexing
-SKILL_20150317_001474	Curse an enemy and decrease its magic defense.
+SKILL_20150317_001474	Maudit un ennemi est diminue sa défense magique.
 SKILL_20150317_001475	Magic Defense: -#{CaptionRatio}#{nl}Hexing Duration: #{CaptionTime}# seconds
 SKILL_20150317_001476	Effigy
-SKILL_20150317_001477	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Damage enemies affected by Hexing. The third attack deals additional damage.
+SKILL_20150317_001477	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Blesse les ennemis ayant le statut [Hexing]. La 3e attaque génère des dégâts supplémentaires.
 SKILL_20150317_001478	Attack #{SkillAtkAdd}#{nl}Attack bonus on 3rd attack #{CaptionRatio}#times ~ #{CaptionRatio2}#times
 SKILL_20150317_001479	Tet Mamak La
-SKILL_20150317_001480	Lure zombies to target area.
+SKILL_20150317_001480	Attire les zombies vers la zone ciblée.
 SKILL_20150317_001481	Requires a summoned zombie{nl}Maximum Level: 1
 SKILL_20150317_001482	Zombify
-SKILL_20150317_001483	Create a magic circle on the ground. Enemies killed in the circle rise as zombies.
+SKILL_20150317_001483	Crée un cercle cercle magique sur le sol. Les ennemis tués dans le cercle se transforment en zombies.
 SKILL_20150317_001484	Magic Circle Duration: #{CaptionTime}# {nl}Maximum Zombie Summons: #{CaptionRatio}#
 SKILL_20150317_001485	Mackangdal
-SKILL_20150317_001486	Throw amulet on target. Becomes invincible while under effect but receive accumulated damage when effect is gone.
+SKILL_20150317_001486	Lance une amulette sur la cible qui devient temporairement invincible mais reçoit tous les dégâts accumulés à la fin du temps d'effet de l'amulette.
 SKILL_20150317_001487	Invincibility Duration: #{CaptionTime}# seconds
 SKILL_20150317_001488	Bwa Kayiman
-SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Zombies roam around target area. Enemies are pushed away and damaged when toufching the zombies.
+SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Les zombies errent autour de la zonee ciblée. Les ennemis sont repoussés et blessé lorsqu'ils touchent les zombies.
 SKILL_20150317_001490	Attack: #{SkillAtkAdd}#{nl}Summoned Zombie required
 SKILL_20150317_001491	Samediveve
-SKILL_20150317_001492	Place a flag on the ground that increases the Movement speed and max HP of nearby targets.
+SKILL_20150317_001492	Placez un drapeau sur le sol qui augmente la vitesse de mouvement et les HP maximum des alliés proches.
 SKILL_20150317_001493	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
 SKILL_20150317_001494	Ogouveve
-SKILL_20150317_001495	Place a flag on the ground that increases the STR of nearby allies targets.
+SKILL_20150317_001495	Placez un drapeau sur le sol qui augmente la STR des alliés proches.
 SKILL_20150317_001496	STR: +#{CaptionRatio}#{nl}Duration: 30 seconds
 SKILL_20150317_001497	Damballa
-SKILL_20150317_001498	{#993399}{ol}[Magic]{/}{/}{nl}Causes zombies in the targeted area to explode, damaging nearby enemies.
+SKILL_20150317_001498	{#993399}{ol}[Magic]{/}{/}{nl}Faites exploser les zombies dans la zone ciblée pour blesser les ennemis proches.
 SKILL_20150317_001499	Attack #{SkillAtkAdd}#{nl}Summoned zombie required{nl}Target #{SkillSR}#
-SKILL_20150317_001500	Carve Statue of Vakarine. Statue can be used to warp to other areas.
+SKILL_20150317_001500	Sculpte une statue Vakarine. La statue peut être utilisée pour se téléporter vers une autre zone.
 SKILL_20150317_001501	Warp #{CaptionRatio}# times {nl}Statue Duration 30 seconds{nl}Use 3 Oak Wood
 SKILL_20150317_001502	Statue of Goddess Zemyna
-SKILL_20150317_001503	Carve Goddess Zemyna Statue. Party members SP consumption will decrease when near statue.
+SKILL_20150317_001503	Sculpte une statue Goddess Zemyna. La consommation des SP des membres de l'équipe diminue lorsqu'ils sont proches de la statue.
 SKILL_20150317_001504	SP - #{CaptionRatio}# {nl} {nl} Statue Duration 30 seconds{nl}Use 5 Pine woods
 SKILL_20150317_001505	Statue of Goddess Laima
-SKILL_20150317_001506	Carve Goddess Zemyna Statue. Splash of party members around the statue is increased.
+SKILL_20150317_001506	Sculpte une statue Goddess Laima. Splash of party members around the statue is increased.
 SKILL_20150317_001507	Splash +#{CaptionRatio}# {nl}Statue Duration 30 seconds {nl} Use 5 cedar wood
 SKILL_20150317_001508	Carve Attack
-SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attack the target by using a carving knife. Plant-type monsters take additional bonus damage and may drop statue materials.
+SKILL_20150317_001509	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Attaque la cible avec un couteau de sculpteur. Les monstres de type Plant subissent des dégâts additionnels et peuvent laisser tomber des matériaux de création de statue.
 SKILL_20150317_001510	Attack #{SkillAtkAdd}#{nl}Additional damage +#{CaptionRatio}#
 SKILL_20150317_001511	Carve Owl
-SKILL_20150317_001512	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Summon the owl statue to attack targets located in front of it.
+SKILL_20150317_001512	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl} Invoque une statue de chouette qui attaque les ennemis devant elle.
 SKILL_20150317_001513	Attack: #{SkillAtkAdd}#{nl}Block Count: #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 2 Oak Wood
 SKILL_20150317_001514	Carve World Tree
-SKILL_20150317_001515	Carve a statue of the holy tree to silence nearby enemies.
+SKILL_20150317_001515	Sculpte une statue Holy Tree qui inflige le statut [Sleep] aux ennemis proches.
 SKILL_20150317_001516	Statue Duration #{CaptionRatio} seconds#{nl}Use #{CaptionRatio2}# Ash wood
 SKILL_20150317_001517	Out of Body
-SKILL_20150317_001518	Remove spirit from body. Spirit can only move near the body.
+SKILL_20150317_001518	Retire l'esprit du corps. L'esprit ne peut pas seulement s'éloigner du corps.
 SKILL_20150317_001519	Body moving range 150
 SKILL_20150317_001520	Prakriti
-SKILL_20150317_001521	Move to where the body is located.
+SKILL_20150317_001521	L'esprit retourne dans son corps.
 SKILL_20150317_001522	Movement Time 0.5 ~ 1 second
 SKILL_20150317_001523	Possession
-SKILL_20150317_001524	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Bind targets and attack.
+SKILL_20150317_001524	{#993399}{ol}[Magic] - [Divine]{/}{/}{nl}Prend possession de la cible et attaque.
 SKILL_20150317_001525	Attack #{SkillAtkAdd}#{nl}Max. Duration 5 seconds
 SKILL_20150317_001526	Vashita Siddhi
-SKILL_20150317_001527	Reduce STR, CON, INT, SPR, DEX of target.
+SKILL_20150317_001527	Réduit la STR, CON, INT, SPR, DEX de la cible.
 SKILL_20150317_001528	STR, CON, INT, SPR, DEX +#{CaptionRatio}#{nl}Max. duration 20 seconds
 SKILL_20150317_001529	Astral Body Explosion
-SKILL_20150317_001530	{#993399}{ol}[Magic]{/}{/}{nl}Blast fluid to damage target.
+SKILL_20150317_001530	{#993399}{ol}[Magic]{/}{/}{nl}Blast fluid to damage target--.
 SKILL_20150317_001531	Transmit Prana
 SKILL_20150317_001532	Give INT to target in front.
 SKILL_20150317_001533	Intelligence passed #{CaptionRatio}#
