@@ -1148,7 +1148,7 @@ SKILL_20150317_001147	Physical Link
 SKILL_20150317_001148	Lie les membres de l'équipe pour diviser les dégâts reçus.
 SKILL_20150317_001149	Les dégâts sont réduit en fonction du nombre de liens{nl} Max. Link #{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds{nl}Consume 16% Stamina
 SKILL_20150317_001150	Joint Penalty
-SKILL_20150317_001151	Lie les ennemis ensembles. Les dégâts infligés à un ennemis sont infligés à tous ceux liés.
+SKILL_20150317_001151	Lie les ennemis ensembles. Les dégâts infligés à un ennemi sont infligés à tous ceux liés.
 SKILL_20150317_001152	Maximum Links: #{SkillFactor}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001153	Hangman's Knot
 SKILL_20150317_001154	Regroupe tous les ennemis liés.
@@ -2200,9 +2200,9 @@ SKILL_20150317_002199	Physical Defense of enemy drawn in skill [Gravity Pole] is
 SKILL_20150317_002200	Raise: Large Monsters
 SKILL_20150317_002201	[Raise] applies to large-type monsters.
 SKILL_20150317_002202	Physical Link: Defense
-SKILL_20150317_002203	Increases physical defense equal to [connected party members + attribute level] when [Physical Link] is active.
+SKILL_20150317_002203	Augmente la défense physique de [connected party members + attribute level] lorsque [Physical Link] est actif.
 SKILL_20150317_002204	Hangman's Knot: Additional Damage
-SKILL_20150317_002205	Enemies receive 20% of magic damage per attribute level when attacked with [Hangman's Knot].
+SKILL_20150317_002205	Les ennemis reçoivent 20% de dégâts magiques supplémentaires par niveau d'attribut lorsqu'ils sont attaqués avec [Hangman's Knot].
 SKILL_20150317_002206	Lifeline: Remaining Defense
 SKILL_20150317_002207	Physical defense remains by 10% per attribute level when using [Lifeline]
 SKILL_20150317_002208	Spiritual Chain: Duration
@@ -2210,7 +2210,7 @@ SKILL_20150317_002209	Duration of [Spiritual Chain] increases by 2 seconds per a
 SKILL_20150317_002210	Joint Penalty: Additional Damage
 SKILL_20150317_002211	Enemies who are linked with [Joint Penalty] will receive additional damage equal to 20% magic damage.
 SKILL_20150317_002212	Hangman's Knot: Splash defense
-SKILL_20150317_002213	Spash defense of enemies gathered through [Hangman's Knot] decrease by 1.
+SKILL_20150317_002213	Réduit de 1 la défense des ennemis touchés par [Hangman's Knot].
 SKILL_20150317_002214	Swell Body: Decreased Movement Speed
 SKILL_20150317_002215	Movement speed of enemy enlarged by [Swell Body] decreases by 10% per attribute level and Physical, Magic attack increases by 5% per attribute level.
 SKILL_20150317_002216	Shrink Body: Increased Movement Speed
