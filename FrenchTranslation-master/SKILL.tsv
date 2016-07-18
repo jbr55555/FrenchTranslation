@@ -1617,35 +1617,35 @@ SKILL_20150317_001616	Diminue la vitesse de mouvement.
 SKILL_20150317_001617	Frozen
 SKILL_20150317_001618	Congelé.
 SKILL_20150317_001619	Ignite
-SKILL_20150317_001620	Fire lit up because of the oil.
+SKILL_20150317_001620	Enflammé avec de l'essence.
 SKILL_20150317_001621	Resurrection After Effects
-SKILL_20150317_001622	The after effect of being revived. Decreased most of your combat skills.
+SKILL_20150317_001622	Malus de résurrection. Diminue la plupart de vos compétences de combat.
 SKILL_20150317_001623	Increase Movement Speed
-SKILL_20150317_001624	Increase movement speed.
+SKILL_20150317_001624	Augmente la vitesse de mouvement.
 SKILL_20150317_001625	Shock wave
 SKILL_20150317_001626	Fire
-SKILL_20150317_001627	Periodically receiving Fire damage.
+SKILL_20150317_001627	Dégâts de Feu reçu continuellement.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
-SKILL_20150317_001630	Fixed Movement Speed
+SKILL_20150317_001630	Vitesse de mouvement fixe.
 SKILL_20150317_001631	Dark
-SKILL_20150317_001632	Field of vision interfered.
+SKILL_20150317_001632	Champ de vision réduit.
 SKILL_20150317_001633	OP Buff
-SKILL_20150317_001634	Increased attack.
+SKILL_20150317_001634	Attaque augmentée.
 SKILL_20150317_001635	Deadly Poison
-SKILL_20150317_001636	Periodically receiving poison damage.
+SKILL_20150317_001636	Dégâts de Poison reçu continuellement.
 SKILL_20150317_001637	Contagious Deadly Poison
-SKILL_20150317_001638	Decreased attack. Periodically receiving poison damage. The effect can be transferred to nearby targets.
+SKILL_20150317_001638	Attaque diminuée. Dégâts de Feu reçu continuellement. L'effet peut être transmis aux cibles proches.
 SKILL_20150317_001639	Evasion
 SKILL_20150317_001640	Evasion.
 SKILL_20150317_001641	Defense Shock
-SKILL_20150317_001642	Blocked by enemy becomes afflicted with [Shock]. Increases the chance of a critical hit from fenemy attacks by 100%.
+SKILL_20150317_001642	Les ennemis qui bloquent vos attaques subissent [Shock]. Augmente les chances de critique ennemi de 100%.
 SKILL_20150317_001643	Petrify
-SKILL_20150317_001644	Petrified.
+SKILL_20150317_001644	Pétrifié.
 SKILL_20150317_001645	Enhance patience
-SKILL_20150317_001646	Damage received decrease by 20%
+SKILL_20150317_001646	Les dégâts reçu diminuent de 20%
 SKILL_20150317_001647	Burning Flame
-SKILL_20150317_001648	Track and explode enemies.
+SKILL_20150317_001648	Suit et explose sur les ennemis.
 SKILL_20150317_001649	Snowstorm.
 SKILL_20150317_001650	Trigger chill
 SKILL_20150317_001651	Cold Air Attack Damage Increase.
@@ -1653,7 +1653,7 @@ SKILL_20150317_001652	Burn
 SKILL_20150317_001653	Calm
 SKILL_20150317_001654	Calm down and stop moving.
 SKILL_20150317_001655	Poison
-SKILL_20150317_001656	Increased attack, while defense is decreased.
+SKILL_20150317_001656	Augmente l'attaque mais diminue la défense.
 SKILL_20150317_001657	Transparent
 SKILL_20150317_001658	Transparent Status Effect.
 SKILL_20150317_001659	Recover HP every 3 seconds.
@@ -1662,7 +1662,7 @@ SKILL_20150317_001661	Monster hold script link
 SKILL_20150317_001662	Increased Attack
 SKILL_20150317_001663	Attack and evasion decrease
 SKILL_20150317_001664	Increased SP & Stamina
-SKILL_20150317_001665	Increases the amount of SP and Stamina recovery
+SKILL_20150317_001665	Augmente le nombre de SP et la récupération de Stamina.
 SKILL_20150317_001666	Decreased Defense and Attack.
 SKILL_20150317_001667	Rage
 SKILL_20150317_001668	Become enraged. Increases STR, Physical Attack and Movement Speed., but decreases INT, Physical and Magic Defense.
