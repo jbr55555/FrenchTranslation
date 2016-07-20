@@ -1665,48 +1665,48 @@ SKILL_20150317_001664	Increased SP & Stamina
 SKILL_20150317_001665	Augmente le nombre de SP et la récupération de Stamina.
 SKILL_20150317_001666	Decreased Defense and Attack.
 SKILL_20150317_001667	Rage
-SKILL_20150317_001668	Become enraged. Increases STR, Physical Attack and Movement Speed., but decreases INT, Physical and Magic Defense.
-SKILL_20150317_001669	Cursed a target.
-SKILL_20150317_001670	Natural recovery impossible, magic defense decreases.
+SKILL_20150317_001668	Devenez enragé. Augmente la STR, Physical Attack et Movement Speed, mais diminue la INT, Physical and Magic Defense.
+SKILL_20150317_001669	Maudit une cible.
+SKILL_20150317_001670	Récupérationn naturelle impossible, la défense magique augmente.
 SKILL_20150317_001671	Addiction Aura
-SKILL_20150317_001672	Spreads poison to nearby enemies. Limited running and item usage.
+SKILL_20150317_001672	Répand du poison sur les ennemis proches. Effet de l'objet limité.
 SKILL_20150317_001673	Growth
 SKILL_20150317_001674	Confusion
-SKILL_20150317_001675	Can't distinguish friend and foe.
+SKILL_20150317_001675	Confond les amis et ennemis.
 SKILL_20150317_001676	Staggered
 SKILL_20150317_001677	Player RAISEUP
-SKILL_20150317_001678	When attacked by an enemy, attack is increased while defense is decreased.
+SKILL_20150317_001678	Lorsqu'un ennemi vous attaque, votre attaque augmente mais votre défense diminue.
 SKILL_20150317_001679	Frozen
 SKILL_20150317_001680	Actor Frozen
 SKILL_20150317_001681	Destroy Camp
-SKILL_20150317_001682	Decreased Defense.
+SKILL_20150317_001682	Défense diminuée.
 SKILL_20150317_001683	Suction
 SKILL_20150317_001684	Reflection
 SKILL_20150317_001685	Adding skills
 SKILL_20150317_001686	Sacrifice
 SKILL_20150317_001687	Exchange life
-SKILL_20150317_001688	Swaps HP for SP and creates a defensive shield of 50% MHP that lasts for 10 seconds.
+SKILL_20150317_001688	Echange les HP et les SP et crée un bouclier défensif de 50% MHP pendant secondes.
 SKILL_20150317_001689	Stop
-SKILL_20150317_001690	Increased Movement Speed
-SKILL_20150317_001691	Significantly increases Movement Speed
+SKILL_20150317_001690	Augmente la vitesse de mouvement.
+SKILL_20150317_001691	Augmente significativement la vitesse de mouvement.
 SKILL_20150317_001692	Ion
 SKILL_20150317_001693	Damage surroundings except target
 SKILL_20150317_001694	Additional damage according to the number attacks by target while buff is enabled.
 SKILL_20150317_001695	Armor Break
-SKILL_20150317_001696	Decreased defense to 0.
+SKILL_20150317_001696	Réduit la défense à 0.
 SKILL_20150317_001697	Damage Debuff
-SKILL_20150317_001698	When the buff ends, take damage.
+SKILL_20150317_001698	Reçoit des dégâts lorsque le buff se termine.
 SKILL_20150317_001699	Hide character (for video)
-SKILL_20150317_001700	Capture enemies with Telekinesis
-SKILL_20150317_001701	Captured by Telekinesis
+SKILL_20150317_001700	Capturez les ennemis avec Telekinesis
+SKILL_20150317_001701	Capturé par Telekinesis
 SKILL_20150317_001702	Reflect Shield
-SKILL_20150317_001703	Reflect all attacks for a certain time.
-SKILL_20150317_001704	Fever Time! Increased attack by 5 per combo
-SKILL_20150317_001705	Causes Fear and Confusion
+SKILL_20150317_001703	Retourne toutes les attaques pendant un certain temps.
+SKILL_20150317_001704	Fever Time! Augmente l'attaque de 5 par combo
+SKILL_20150317_001705	Confère Fear et Confusion
 SKILL_20150317_001706	Flu Flu Effect
 SKILL_20150317_001707	Fear Outbreak
 SKILL_20150317_001708	Oil Stains
-SKILL_20150317_001709	You'll be in big trouble if attacked with Fire Property attacks.
+SKILL_20150317_001709	Vous êtes vulnérable attaques de propriétés Feu.--
 SKILL_20150317_001710	Increased movement speed.
 SKILL_20150317_001711	Holy Aura
 SKILL_20150317_001712	Spread newly received buffs to allies
