@@ -988,7 +988,7 @@ SKILL_20150317_000987	{#DD5500}{ol}[Pierce]{/}{/}{nl}Empale un monstre de petite
 SKILL_20150317_000988	Earth Wave
 SKILL_20150317_000989	{#DDD300}{ol}[Strike]{/}{/}{nl}Concentrez votre puissance et frappez le sol avec votre arme pour attaquer l'ennemi.
 SKILL_20150317_000990	Trot
-SKILL_20150317_000991	Augmente votre vitesse de mouvement.
+SKILL_20150317_000991	Augmente votre vitesse de déplacement.
 SKILL_20150317_000992	Movement Speed: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_000993	Steed Charge
 SKILL_20150317_000994	{#DDD300}{ol}[Strike]{/}{/}{nl}Effectuez une puissante charge pour repousser la cible.
@@ -1041,7 +1041,7 @@ SKILL_20150317_001040	Change Direction
 SKILL_20150317_001041	Deeds of Valor
 SKILL_20150317_001042	Augmente votre vitesse d'attaque et votre taux d'attaque lorsque vous êtes attaqué mais réduit votre défense.
 SKILL_20150317_001043	Pain Barrier
-SKILL_20150317_001044	Augmente vote vitesse de mouvement +#{CaptionTime}# pendant #{CaptionRatio}#% secondes
+SKILL_20150317_001044	Augmente vote vitesse de déplacement +#{CaptionTime}# pendant #{CaptionRatio}#% secondes
 SKILL_20150317_001045	Mordschlag
 SKILL_20150317_001046	{#CC3300}{ol}[Pierce]{/}{/} Attribute{nl}Damage #{SkillFactor}#%{nl}Splash #{SkillSR}#{nl} Consumption SP #{SpendSP}#
 SKILL_20150317_001047	Double Pay Earn
@@ -1198,7 +1198,7 @@ SKILL_20150317_001197	Riding
 SKILL_20150317_001198	Chevauche l'esprit invoqué.
 SKILL_20150317_001199	Morph
 SKILL_20150317_001200	Quicken
-SKILL_20150317_001201	Augmente la vitesse de mouvement d'un allié.
+SKILL_20150317_001201	Augmente la vitesse de déplacement d'un allié.
 SKILL_20150317_001202	Reincarnate
 SKILL_20150317_001203	Fait réapparaître un monstre immédiatement après qu'il ait été tué.
 SKILL_20150317_001204	{#6644FF}{ol}[Fire]{/}{/}Attribute {nl} Attack #{SkillFactor}#% + #{SkillAtkAdd} per 0.5 seconds# damage {nl} Duration 10 seconds {nl}Consume #{{nl} SpendSP}# SP
@@ -1276,7 +1276,7 @@ SKILL_20150317_001275	Kneeling Shot
 SKILL_20150317_001276	{#DD5500}{ol}[Physical] - [Pierce]{/}{/} {nl}Vous mettez un genou à terre pour augmenter la vitesse d'attaque, les dégâts et la portée.
 SKILL_20150317_001277	Physical Damage + #{CaptionRatio}#{nl} Range + #{CaptionRatio2}#
 SKILL_20150317_001278	Swift Step
-SKILL_20150317_001279	Augmente la vitesse de mouvement lorsque vous attaquez.
+SKILL_20150317_001279	Augmente la vitesse de déplacement lorsque vous attaquez.
 SKILL_20150317_001280	Moving Shot Movement Speed: +#{SkillFactor}#%{nl}Defense: -#{CaptionRatio}#{nl}Duration: #{CaptionTime}# seconds
 SKILL_20150317_001281	Oblique Shot
 SKILL_20150317_001282	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Tire une flèche qui rebondit sur la cible et blesse un ennemi adjacent.
@@ -1337,7 +1337,7 @@ SKILL_20150317_001336	Drive in enemies with less HP less than #{CaptionRatio}#%{
 SKILL_20150317_001337	Snatching
 SKILL_20150317_001338	Votre compagnon mord les ennemis de type Flying et les met au sol.
 SKILL_20150317_001339	Praise
-SKILL_20150317_001340	Aumente temporairement la vitesse de mouvement et la vitesse d'attaque du compagnon.
+SKILL_20150317_001340	Augmente temporairement la vitesse de déplacement et la vitesse d'attaque du compagnon.
 SKILL_20150317_001341	Companion Movement Speed: +#{CaptionRatio}#%{nl}Duration: 60 seconds
 SKILL_20150317_001342	Pointing
 SKILL_20150317_001343	Votre compagnon provoque et détourne l'attention de la cible. Reduit l'Evasion de la cible.
@@ -1489,7 +1489,7 @@ SKILL_20150317_001488	Bwa Kayiman
 SKILL_20150317_001489	{#DD5500}{ol}[Physical] [Strike]{/}{/}{nl}Les zombies errent autour de la zonee ciblée. Les ennemis sont repoussés et blessé lorsqu'ils touchent les zombies.
 SKILL_20150317_001490	Attack: #{SkillAtkAdd}#{nl}Summoned Zombie required
 SKILL_20150317_001491	Samediveve
-SKILL_20150317_001492	Placez un drapeau sur le sol qui augmente la vitesse de mouvement et les HP maximum des alliés proches.
+SKILL_20150317_001492	Placez un drapeau sur le sol qui augmente la vitesse de déplacement et les HP maximum des alliés proches.
 SKILL_20150317_001493	Max. HP +#{CaptionRatio}#{nl}Movement Speed +#{CaptionRatio2}#% Duration 30 seconds {nl}
 SKILL_20150317_001494	Ogouveve
 SKILL_20150317_001495	Placez un drapeau sur le sol qui augmente la STR des alliés proches.
@@ -1579,7 +1579,7 @@ SKILL_20150317_001578	Change drop item.
 SKILL_20150317_001579	Become ward and spread buff received to allies.
 SKILL_20150317_001580	Crée un cercle magique qui augmente la DEX des alliés et qui baisse la défense des ennemis.
 SKILL_20150317_001581	Agility +#{CaptionRatio}#% increase {nl}Duration #{CaptionTime}#{nl} seconds {nl}Enemy defense -#{CaptionRatio2}#%{nl} {nl}Magic circle duration 10 seconds {nl}Consume #{SpendSP}# SP
-SKILL_20150317_001582	Crée un cercle magique qui augmente la vitesse de mouvement des alliés.
+SKILL_20150317_001582	Crée un cercle magique qui augmente la vitesse de déplacement des alliés.
 SKILL_20150317_001583	Movement Speed: +#{CaptionRatio}#%{nl}Speed + 0.2% per skill level {nl} Duration: #{CaptionTime}# seconds{nl}Consumes #{SpendSP}# SP
 SKILL_20150317_001584	Répand de l'eau bénite sur vous ansi que sur les alliés devant vous. Augmente l'attaque.
 SKILL_20150317_001585	Attack: +#{CaptionRatio}#% {nl}Additional attack increase by 0.4% per skill level{nl}Duration: 120 seconds{nl}Consumes #{SpendSP}# SP
@@ -1603,7 +1603,7 @@ SKILL_20150317_001602	Inflige des dégâts de saignement toutes les 1.5 secondes
 SKILL_20150317_001603	Excessive Bleed
 SKILL_20150317_001604	Les dégâts de saignement sont augmentés.
 SKILL_20150317_001605	Spurt
-SKILL_20150317_001606	Vitesse de mouvement augmentée durant 15 seconds.
+SKILL_20150317_001606	Vitesse de déplacement augmentée durant 15 seconds.
 SKILL_20150317_001607	Recovery
 SKILL_20150317_001608	Les HP et SP sont restaurés de 5% par seconde
 SKILL_20150317_001609	Discovery
@@ -1613,7 +1613,7 @@ SKILL_20150317_001612	Augmente la récupération des HP, des SP et des STA.
 SKILL_20150317_001613	Safety
 SKILL_20150317_001614	Safety.
 SKILL_20150317_001615	Chilly
-SKILL_20150317_001616	Diminue la vitesse de mouvement.
+SKILL_20150317_001616	Diminue la vitesse de déplacement.
 SKILL_20150317_001617	Frozen
 SKILL_20150317_001618	Congelé.
 SKILL_20150317_001619	Ignite
@@ -1621,13 +1621,13 @@ SKILL_20150317_001620	Enflammé avec de l'essence.
 SKILL_20150317_001621	Resurrection After Effects
 SKILL_20150317_001622	Malus de résurrection. Diminue la plupart de vos compétences de combat.
 SKILL_20150317_001623	Increase Movement Speed
-SKILL_20150317_001624	Augmente la vitesse de mouvement.
+SKILL_20150317_001624	Augmente la vitesse de déplacement.
 SKILL_20150317_001625	Shock wave
 SKILL_20150317_001626	Fire
 SKILL_20150317_001627	Dégâts de Feu reçu continuellement.
 SKILL_20150317_001628	Hold
 SKILL_20150317_001629	Unmovable.
-SKILL_20150317_001630	Vitesse de mouvement fixe.
+SKILL_20150317_001630	Vitesse de déplacement fixe.
 SKILL_20150317_001631	Dark
 SKILL_20150317_001632	Champ de vision réduit.
 SKILL_20150317_001633	OP Buff
@@ -1663,7 +1663,7 @@ SKILL_20150317_001662	Increased Attack
 SKILL_20150317_001663	Attack and evasion decrease
 SKILL_20150317_001664	Increased SP & Stamina
 SKILL_20150317_001665	Augmente le nombre de SP et la récupération de Stamina.
-SKILL_20150317_001666	Decreased Defense and Attack.
+SKILL_20150317_001666	Diminue la défense et l'attaque.
 SKILL_20150317_001667	Rage
 SKILL_20150317_001668	Devenez enragé. Augmente la STR, Physical Attack et Movement Speed, mais diminue la INT, Physical and Magic Defense.
 SKILL_20150317_001669	Maudit une cible.
@@ -1687,8 +1687,8 @@ SKILL_20150317_001686	Sacrifice
 SKILL_20150317_001687	Exchange life
 SKILL_20150317_001688	Echange les HP et les SP et crée un bouclier défensif de 50% MHP pendant secondes.
 SKILL_20150317_001689	Stop
-SKILL_20150317_001690	Augmente la vitesse de mouvement.
-SKILL_20150317_001691	Augmente significativement la vitesse de mouvement.
+SKILL_20150317_001690	Augmente la vitesse de déplacement.
+SKILL_20150317_001691	Augmente significativement la vitesse de déplacement.
 SKILL_20150317_001692	Ion
 SKILL_20150317_001693	Damage surroundings except target
 SKILL_20150317_001694	Additional damage according to the number attacks by target while buff is enabled.
@@ -1706,8 +1706,8 @@ SKILL_20150317_001705	Confère Fear et Confusion
 SKILL_20150317_001706	Flu Flu Effect
 SKILL_20150317_001707	Fear Outbreak
 SKILL_20150317_001708	Oil Stains
-SKILL_20150317_001709	Vous êtes vulnérable attaques de propriétés Feu.--
-SKILL_20150317_001710	Increased movement speed.
+SKILL_20150317_001709	Vous êtes vulnérable attaques de propriétés Feu.
+SKILL_20150317_001710	Augmente la vitesse de déplacement.
 SKILL_20150317_001711	Holy Aura
 SKILL_20150317_001712	Spread newly received buffs to allies
 SKILL_20150317_001713	Fog
@@ -1986,11 +1986,11 @@ SKILL_20150317_001985	Increases damage when using a [Blunt] type weapon on Plate
 SKILL_20150317_001986	Overcome
 SKILL_20150317_001987	Increases Critical Chance when using Sword items.{nl}(Increases Critical by 10% per level)
 SKILL_20150317_001988	Jump
-SKILL_20150317_001989	You can jump. Press the [X] key to jump.
+SKILL_20150317_001989	Vous pouvez sauter. Appuyez sur la touche [X] pour sauter.
 SKILL_20150317_001990	Sidestep
 SKILL_20150317_001991	Move sideways. Press the arrow keys while holding down the [Shift] key to move sideways. Consumes Stamina.
 SKILL_20150317_001992	Dash
-SKILL_20150317_001993	You can run. Press an arrow key twice to start running.
+SKILL_20150317_001993	Vous pouvez courir. Appuyez sur un touche flèche deux fois pour commencer à courir.
 SKILL_20150317_001994	Meditation
 SKILL_20150317_001995	Increases SP recovery.{nl}(Increases Lv. x maximum Stamina by 1%)
 SKILL_20150317_001996	Regeneration
@@ -2200,7 +2200,7 @@ SKILL_20150317_002199	Physical Defense of enemy drawn in skill [Gravity Pole] is
 SKILL_20150317_002200	Raise: Large Monsters
 SKILL_20150317_002201	[Raise] applies to large-type monsters.
 SKILL_20150317_002202	Physical Link: Defense
-SKILL_20150317_002203	Augmente la défense physique de [connected party members + attribute level] lorsque [Physical Link] est actif.
+SKILL_20150317_002203	Augmente la défense physique de [membres de l'équipe connectés + niveau d'attribut] lorsque [Physical Link] est actif.
 SKILL_20150317_002204	Hangman's Knot: Additional Damage
 SKILL_20150317_002205	Les ennemis reçoivent 20% de dégâts magiques supplémentaires par niveau d'attribut lorsqu'ils sont attaqués avec [Hangman's Knot].
 SKILL_20150317_002206	Lifeline: Remaining Defense
@@ -2208,7 +2208,7 @@ SKILL_20150317_002207	Physical defense remains by 10% per attribute level when u
 SKILL_20150317_002208	Spiritual Chain: Duration
 SKILL_20150317_002209	Duration of [Spiritual Chain] increases by 2 seconds per attribute level.
 SKILL_20150317_002210	Joint Penalty: Additional Damage
-SKILL_20150317_002211	Enemies who are linked with [Joint Penalty] will receive additional damage equal to 20% magic damage.
+SKILL_20150317_002211	Les ennemis liés avec [Joint Penalty] reçoivent 20% de dégâts magiques supplémentaires.
 SKILL_20150317_002212	Hangman's Knot: Splash defense
 SKILL_20150317_002213	Réduit de 1 la défense des ennemis touchés par [Hangman's Knot].
 SKILL_20150317_002214	Swell Body: Decreased Movement Speed
@@ -3697,11 +3697,11 @@ SKILL_20150414_003696	Téléporte vers un lieu au hasard.
 SKILL_20150414_003697	{#993399}{ol}[Magic]{/}{/}{nl}Inflict damage on multiple enemies by pulling them to a targeted area causing them to collide with each other.
 SKILL_20150414_003698	Lift nearby enemies up into the air. Enemies in the air are temporarily detected as a Flying-type.
 SKILL_20150414_003699	Create a straight line gravitational force that pull the enemies.
-SKILL_20150414_003700	Link enemies to cause them to share the damage they take.
-SKILL_20150414_003701	Gather linked enemies to one area and make them collide with each other.
-SKILL_20150414_003702	Link party members to share buff effects with each other.
+SKILL_20150414_003700	Lie les ennemis pour qu'ils partagent les dégâts qu'ils reçoivent.
+SKILL_20150414_003701	Concentre les ennemis liés en un point de la zone. Les ennemis entre en collision les uns avec les autres.
+SKILL_20150414_003702	Lie les membres de l'équipe pour partager les effets des buffs.
 SKILL_20150414_003703	Lifeline
-SKILL_20150414_003704	Use the higher ability beween you and linked ally.
+SKILL_20150414_003704	Utiliser la meilleure compétence entre vous et les alliés liés.
 SKILL_20150414_003705	Enlarge the size of you and your party member's hand to increase attack.
 SKILL_20150414_003706	Shrink the size of your target. When used on small-sized enemies, there is a chance for them to disappear.
 SKILL_20150414_003707	Enlarge the size of your target. When used on overly large enemies, there is a chance to cause an explosion.
@@ -3753,11 +3753,11 @@ SKILL_20150414_003752	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Quickly shoot 
 SKILL_20150414_003753	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Fires a shot that penetrates enemies. Enemies close to one another may be skewered together.
 SKILL_20150414_003754	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Kneel down to improve your concentration. Increases your attack and range.
 SKILL_20150414_003755	Temporarily increases your movement speed while attacking.
-SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Fires a shot that ricochets to a nearby enemy.
+SKILL_20150414_003756	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Tirez un projectile qui ricoche sur un ennemi proche.
 SKILL_20150414_003757	Heavy Shot
 SKILL_20150414_003758	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Demonstrate your strength by firing a shot that pushes enemies away.
 SKILL_20150414_003759	Twin Arrows
-SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Fires two shots at once.
+SKILL_20150414_003760	{#DD5500}{ol}[Physical] - [Missile]{/}{/}{nl}Tirez deux projectiles à la fois.
 SKILL_20150414_003761	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Penetrate straight through the enemy by aiming with the tip of your arrow. 
 SKILL_20150414_003762	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Shoot an arrow with a high critical chance.
 SKILL_20150414_003763	Attack speed decrease and ATK increase.
@@ -6357,3 +6357,66 @@ SKILL_20160323_006356	Increases the duration time of [Carnivory] by 1 second per
 SKILL_20160329_006357	Maximum Duration: #{CaptionRatio2}# seconds{nl}+#{CaptionRatio}#% Block during skill duration{nl}Duration: 15 seconds
 SKILL_20160425_006358	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use Premium Gestures{nl}
 SKILL_20160426_006359	 - Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to use 
+SKILL_20160718_006360	Temporarily grants a high resistance to being affected by knockback, knockdown or staggered. Also, increases the chance to resist abnormalities.
+SKILL_20160718_006361	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Charge forward while slashing, attacking any enemies that block your way. Also, deals additional damage to stunned targets.
+SKILL_20160718_006362	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Release a strong attack on enemies by spinning your body. Increases your critical rate when the attack lands and deals additional damage to a stunned enemy. Also, the target takes additional slash damage for a certain period of time.
+SKILL_20160718_006363	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and dash to push enemies away. Enemies nearby will fall down when hit with the shield. While using the skill, it increases the chance to block missile attacks.
+SKILL_20160718_006364	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Hold down the key to crouch and move forward. Increases evasion against enemy attacks, block and resistance against abnormalities and triggers an attack immediately after movement has ended.
+SKILL_20160718_006365	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your shield and sword to successively attack enemies.
+SKILL_20160718_006366	Dethrone
+SKILL_20160718_006367	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Attack by continuously fuming fire towards enemies. Deals continuous flame damage to enemies. Likely to receive additional Fire damage for a while. While casting Hellbreath, you receive melee block effect.
+SKILL_20160718_006368	INT: +#{CaptionRatio}#{nl}Additional Magic Attack +#{CaptionRatio2}#{nl}Duration: #{CaptionTime}# seconds
+SKILL_20160718_006369	{#993399}{ol}[Magic]{/}{/}{nl}Encircle yourself with corpse parts that will damage nearby enemies. Likely to deal additional damage to the enemy in a decaying state.
+SKILL_20160718_006370	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Summon evil spirits to surround you for protection and attack the enemies upon contact. Each evil spirit can attack for a certain amount of times.
+SKILL_20160718_006371	Attack: 400% + #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006372	Duration: #{CaptionTime}# seconds{nl}Increases Ice-property skill attack by 300%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006373	Giant Size Duration: #{CaptionTime}# seconds{nl}Magic Circle Duration: 10 seconds{nl}Defense, Maximum HP: +#{CaptionRatio}#%{nl}Movement Speed: +#{CaptionRatio2}#{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006374	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionRatio}#%{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006375	Resistance Effect Chance: +#{CaptionRatio}#%{nl}Duration: #{CaptionTime}# seconds{nl}Consumes 1 Rune Stone{nl}Cast Time: 6 seconds
+SKILL_20160718_006376	Kneel down to improve your concentration. Increases your attack, attack speed and range. Either casting Kneeling Shot or jumping will turn the kneeling state off.
+SKILL_20160718_006377	{#DD5500}{ol}[Physical]{/}{/}{nl}Your companion holds on to a target. Decreases a target's physical defense and attacks against the target will have an increased critical chance. Also, deals continuous damage to the target.
+SKILL_20160718_006378	{#DD5500}{ol}[Physical]{/}{/}{nl}Order your companion to drag a target towards you. The target becomes unable to attack and suffers continuous damage.
+SKILL_20160718_006379	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Command your hawk to divebomb enemies multiple times in the targeted area. The target is likely to be afflicted with [Blind].
+SKILL_20160718_006380	Attack: #{SkillAtkAdd}#{nl}Attribute Damage: #{CaptionTime}#%{nl}Recovers HP equal to 5% of the maximum HP{nl}Additional HP Recovery Rate: #{CaptionRatio}# ~ #{CaptionRatio2}#{nl}Magic Circle Duration: #{CaptionTime}# seconds
+SKILL_20160718_006381	Creates a magic circle of the Guardian Saint. The target takes damage of the magic circle instead of the caster. Also, it increases your SP and Stamina recovery.
+SKILL_20160718_006382	Summons a holy torch, improving the HP recovery of nearby allies. Decreases the accuracy of nearby enemies. Also, when near a torchlight, duration of harmful effects get decreased.
+SKILL_20160718_006383	Additional Damage: +#{CaptionRatio}#{nl}Number of Hits: #{CaptionRatio2}#{nl}Allies Affected: #{CaptionTime}#{nl}Duration: 60 seconds{nl}Consumes 1 Holy Powder
+SKILL_20160718_006384	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Instruct your summoned zombies to celebrate. The zombies will deal little damage to anything they touch. Zombie's STR stat applies as additional damage.
+SKILL_20160718_006385	Cooldown: -#{CaptionRatio}#% {nl}Movement Speed: -#{CaptionTime}# {nl}Statue Duration: #{CaptionRatio2}# seconds{nl}Consumes 1 Cedar Wood
+SKILL_20160718_006386	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attacks an enemy as an attack for the betrayer. Resistance to Fire, Ice, Lightning, Poison of the enemy that received the attack will decrease. Deals additional damage to the stunned target.
+SKILL_20160718_006387	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use your trained fists to attack an enemy in quick succession. The target receives additional strike damage for a period of time.
+SKILL_20160718_006388	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw a coin by using the tip of your finger to inflict damage on an enemy. The target receives additional strike damage for a period of time.
+SKILL_20160718_006389	Your body gets staggered.
+SKILL_20160718_006390	Your body gets staggered. More vulnerable to Umbo Blow.
+SKILL_20160718_006391	SP absorbed
+SKILL_20160718_006392	Vulnerable to Slash Attacks
+SKILL_20160718_006393	Receives Additional Fire Damage.
+SKILL_20160718_006394	Sonic Strike: Confusion
+SKILL_20160718_006395	In a state of confusion. Reduced physical defense while physical attack is increased.
+SKILL_20160718_006396	Fastly Decreases Duration of Harmful Effects
+SKILL_20160718_006397	GvG Spectator
+SKILL_20160718_006398	Pre-GvG
+SKILL_20160718_006399	Defense and Magic Defense Increase
+SKILL_20160718_006400	Increased defense and magic defense.
+SKILL_20160718_006401	Penguin Owner
+SKILL_20160718_006402	Increased defense and magic defense.
+SKILL_20160718_006403	Attack and Magic Attack Increase
+SKILL_20160718_006404	Increased attack and magic attack.
+SKILL_20160718_006405	Lesser Panda Owner
+SKILL_20160718_006406	Increased critical rate and critical attack.
+SKILL_20160718_006407	- Able to learn attributes instantaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 10 items on the Market{nl} - +3 increased character movement{nl} - Increased maximum buff count{nl} - Able to u
+SKILL_20160718_006408	Field Boss Cube Unobtainable
+SKILL_20160718_006409	You've obtained Field Boss Cube.{nl}During the duration of this effect, you will be excluded from the cube queue and will not be able to obtain cubes.
+SKILL_20160718_006410	You can use the skill while mounting a companion.
+SKILL_20160718_006411	Increases the chance of inflicting [Freeze] on enemies hit by [Ice Bolt] by 10% per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006412	Increases the chance to hit with twice the normal damage to enemies hexed by [Kurdaitcha] (or any other methods) by 1% chance per attribute level. (Applies to characters other than the caster.)
+SKILL_20160718_006413	If the target gets blinded by [Sonic Strike], there is a chance it will be inflicted with confusion. Also, [Confusion] will decrease the target's physical defence by 15% per level and increase Physical Attack by 2% per level.
+SKILL_20160718_006414	Increases the duration of [Revive] by 7 seconds per attribute level. (Does not apply in Team Battle League.)
+SKILL_20160718_006415	Palm Strike: Remove Knockdown
+SKILL_20160718_006416	[Palm Strike] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
+SKILL_20160718_006417	Hand Knife: Remove Knockdown
+SKILL_20160718_006418	[Hand Knife] no longer knocks enemies down. (Only applies if this attribute is set to ON.)
+SKILL_20160718_006419	Peltasta 2nd Circle required
+SKILL_20160718_006420	Lv6 Umbo Blow required
+SKILL_20160718_006421	Lv6 Rim Blow required
+SKILL_20160718_006422	Peltasta 3rd Circle required
